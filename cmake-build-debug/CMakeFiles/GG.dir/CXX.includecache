@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/1. Two Sum.cpp
+unordered_map
+-
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/31. Next Permutation.cpp
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/347. Top K Frequent Elements.cpp
+vector
+-
+unordered_map
+-
+queue
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/349. Intersection of Two Arrays.cpp
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/367. Valid Perfect Square.cpp
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/387. First Unique Character.cpp
+string
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/42. Trapping Rain Water.cpp
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/442. Find All Duplicates in an Array.cpp
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/448. Find All Numbers Disappeared in an Array.cpp
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/451. Sort Characters By Frequency.cpp
+string
+-
+vector
+-
+queue
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/50. Pow(x, n).cpp
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/53. Maximum Subarray.cpp
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/69. Sqrt(x).cpp
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/852. Peak Index in a Mountain Array.cpp
+vector
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/921. Minimum Add to Make Parentheses Valid.cpp
+string
+-
+stack
+-
+math.h
+-
+vector
+-
+unordered_map
+-
+set
+-
+unordered_set
+-
+queue
+-
+iostream
+-
+
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/main.cpp
+iostream
+-
+vector
+-
+set
+-
+math.h
+-
+string
+-
+queue
+-
+array
+-
+unordered_map
+-
+stack
+-
+

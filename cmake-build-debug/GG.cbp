@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GG"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GG">
+				<Option output="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/GG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 GG"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GG/fast">
+				<Option output="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/GG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 GG/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/quang.hoang/CLionProjects/Coding\ Interview\ Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/1. Two Sum.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/31. Next Permutation.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/347. Top K Frequent Elements.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/349. Intersection of Two Arrays.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/367. Valid Perfect Square.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/387. First Unique Character.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/42. Trapping Rain Water.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/442. Find All Duplicates in an Array.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/448. Find All Numbers Disappeared in an Array.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/451. Sort Characters By Frequency.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/50. Pow(x, n).cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/53. Maximum Subarray.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/69. Sqrt(x).cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/852. Peak Index in a Mountain Array.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/921. Minimum Add to Make Parentheses Valid.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/main.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/GG.dir
