@@ -23,6 +23,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/GG.dir/Leetcode/70._Climbing_Stairs.cpp.o"
   "CMakeFiles/GG.dir/Leetcode/509._Fibonacci_Number.cpp.o"
   "CMakeFiles/GG.dir/Leetcode/665._Non-decreasing_Array.cpp.o"
+  "CMakeFiles/GG.dir/Leetcode/905._Sort_Array_By_Parity.cpp.o"
   "GG.pdb"
   "GG"
 )

@@ -717,6 +717,33 @@ Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.s
 .PHONY : Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.s
 
+Leetcode/905._Sort_Array_By_Parity.o: Leetcode/905._Sort_Array_By_Parity.cpp.o
+
+.PHONY : Leetcode/905._Sort_Array_By_Parity.o
+
+# target to build an object file
+Leetcode/905._Sort_Array_By_Parity.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/905._Sort_Array_By_Parity.cpp.o
+.PHONY : Leetcode/905._Sort_Array_By_Parity.cpp.o
+
+Leetcode/905._Sort_Array_By_Parity.i: Leetcode/905._Sort_Array_By_Parity.cpp.i
+
+.PHONY : Leetcode/905._Sort_Array_By_Parity.i
+
+# target to preprocess a source file
+Leetcode/905._Sort_Array_By_Parity.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/905._Sort_Array_By_Parity.cpp.i
+.PHONY : Leetcode/905._Sort_Array_By_Parity.cpp.i
+
+Leetcode/905._Sort_Array_By_Parity.s: Leetcode/905._Sort_Array_By_Parity.cpp.s
+
+.PHONY : Leetcode/905._Sort_Array_By_Parity.s
+
+# target to generate assembly for a file
+Leetcode/905._Sort_Array_By_Parity.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/905._Sort_Array_By_Parity.cpp.s
+.PHONY : Leetcode/905._Sort_Array_By_Parity.cpp.s
+
 Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.o: Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.o
 
 .PHONY : Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.o
@@ -846,6 +873,9 @@ help:
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.o"
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.i"
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.s"
+	@echo "... Leetcode/905._Sort_Array_By_Parity.o"
+	@echo "... Leetcode/905._Sort_Array_By_Parity.i"
+	@echo "... Leetcode/905._Sort_Array_By_Parity.s"
 	@echo "... Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.o"
 	@echo "... Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.i"
 	@echo "... Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.s"

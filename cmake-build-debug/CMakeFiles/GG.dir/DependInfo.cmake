@@ -26,6 +26,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/70. Climbing Stairs.cpp" "/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/GG.dir/Leetcode/70._Climbing_Stairs.cpp.o"
   "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/718. Maximum Length of Repeated Subarray.cpp" "/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/GG.dir/Leetcode/718._Maximum_Length_of_Repeated_Subarray.cpp.o"
   "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/852. Peak Index in a Mountain Array.cpp" "/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/GG.dir/Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.o"
+  "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/905. Sort Array By Parity.cpp" "/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/GG.dir/Leetcode/905._Sort_Array_By_Parity.cpp.o"
   "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/921. Minimum Add to Make Parentheses Valid.cpp" "/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/GG.dir/Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.o"
   "/Users/quang.hoang/CLionProjects/Coding Interview Practice/main.cpp" "/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles/GG.dir/main.cpp.o"
   )
