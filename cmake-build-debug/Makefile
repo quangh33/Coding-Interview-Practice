@@ -555,6 +555,33 @@ Leetcode/62._Unique_Paths.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/62._Unique_Paths.cpp.s
 .PHONY : Leetcode/62._Unique_Paths.cpp.s
 
+Leetcode/665._Non-decreasing_Array.o: Leetcode/665._Non-decreasing_Array.cpp.o
+
+.PHONY : Leetcode/665._Non-decreasing_Array.o
+
+# target to build an object file
+Leetcode/665._Non-decreasing_Array.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/665._Non-decreasing_Array.cpp.o
+.PHONY : Leetcode/665._Non-decreasing_Array.cpp.o
+
+Leetcode/665._Non-decreasing_Array.i: Leetcode/665._Non-decreasing_Array.cpp.i
+
+.PHONY : Leetcode/665._Non-decreasing_Array.i
+
+# target to preprocess a source file
+Leetcode/665._Non-decreasing_Array.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/665._Non-decreasing_Array.cpp.i
+.PHONY : Leetcode/665._Non-decreasing_Array.cpp.i
+
+Leetcode/665._Non-decreasing_Array.s: Leetcode/665._Non-decreasing_Array.cpp.s
+
+.PHONY : Leetcode/665._Non-decreasing_Array.s
+
+# target to generate assembly for a file
+Leetcode/665._Non-decreasing_Array.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/665._Non-decreasing_Array.cpp.s
+.PHONY : Leetcode/665._Non-decreasing_Array.cpp.s
+
 Leetcode/69._Sqrt(x).o: Leetcode/69._Sqrt(x).cpp.o
 
 .PHONY : Leetcode/69._Sqrt(x).o
@@ -801,6 +828,9 @@ help:
 	@echo "... Leetcode/62._Unique_Paths.o"
 	@echo "... Leetcode/62._Unique_Paths.i"
 	@echo "... Leetcode/62._Unique_Paths.s"
+	@echo "... Leetcode/665._Non-decreasing_Array.o"
+	@echo "... Leetcode/665._Non-decreasing_Array.i"
+	@echo "... Leetcode/665._Non-decreasing_Array.s"
 	@echo "... Leetcode/69._Sqrt(x).o"
 	@echo "... Leetcode/69._Sqrt(x).i"
 	@echo "... Leetcode/69._Sqrt(x).s"
