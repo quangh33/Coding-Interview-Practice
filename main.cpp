@@ -10,7 +10,8 @@
 
 using namespace std;
 
+
 int main() {
-    cout<<"Hello, Quang";
+    vector<int> a = { 0,1,2,4,5,7 };
     return 0;
 }

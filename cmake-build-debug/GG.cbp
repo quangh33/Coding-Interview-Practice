@@ -83,6 +83,12 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/1. Two Sum.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/209. Minimum Size Subarray Sum.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/228. Summary Ranges.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/31. Next Permutation.cpp">
 			<Option target="GG"/>
 		</Unit>
@@ -113,10 +119,25 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/50. Pow(x, n).cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/509. Fibonacci Number.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/53. Maximum Subarray.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/62. Unique Paths.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/69. Sqrt(x).cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/697. Degree of an Array.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/70. Climbing Stairs.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/718. Maximum Length of Repeated Subarray.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/852. Peak Index in a Mountain Array.cpp">
