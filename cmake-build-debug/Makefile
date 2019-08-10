@@ -150,6 +150,87 @@ Leetcode/1._Two_Sum.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1._Two_Sum.cpp.s
 .PHONY : Leetcode/1._Two_Sum.cpp.s
 
+Leetcode/100._Same_Tree.o: Leetcode/100._Same_Tree.cpp.o
+
+.PHONY : Leetcode/100._Same_Tree.o
+
+# target to build an object file
+Leetcode/100._Same_Tree.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/100._Same_Tree.cpp.o
+.PHONY : Leetcode/100._Same_Tree.cpp.o
+
+Leetcode/100._Same_Tree.i: Leetcode/100._Same_Tree.cpp.i
+
+.PHONY : Leetcode/100._Same_Tree.i
+
+# target to preprocess a source file
+Leetcode/100._Same_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/100._Same_Tree.cpp.i
+.PHONY : Leetcode/100._Same_Tree.cpp.i
+
+Leetcode/100._Same_Tree.s: Leetcode/100._Same_Tree.cpp.s
+
+.PHONY : Leetcode/100._Same_Tree.s
+
+# target to generate assembly for a file
+Leetcode/100._Same_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/100._Same_Tree.cpp.s
+.PHONY : Leetcode/100._Same_Tree.cpp.s
+
+Leetcode/1020._Number_of_Enclaves.o: Leetcode/1020._Number_of_Enclaves.cpp.o
+
+.PHONY : Leetcode/1020._Number_of_Enclaves.o
+
+# target to build an object file
+Leetcode/1020._Number_of_Enclaves.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1020._Number_of_Enclaves.cpp.o
+.PHONY : Leetcode/1020._Number_of_Enclaves.cpp.o
+
+Leetcode/1020._Number_of_Enclaves.i: Leetcode/1020._Number_of_Enclaves.cpp.i
+
+.PHONY : Leetcode/1020._Number_of_Enclaves.i
+
+# target to preprocess a source file
+Leetcode/1020._Number_of_Enclaves.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1020._Number_of_Enclaves.cpp.i
+.PHONY : Leetcode/1020._Number_of_Enclaves.cpp.i
+
+Leetcode/1020._Number_of_Enclaves.s: Leetcode/1020._Number_of_Enclaves.cpp.s
+
+.PHONY : Leetcode/1020._Number_of_Enclaves.s
+
+# target to generate assembly for a file
+Leetcode/1020._Number_of_Enclaves.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1020._Number_of_Enclaves.cpp.s
+.PHONY : Leetcode/1020._Number_of_Enclaves.cpp.s
+
+Leetcode/200._Number_of_Islands.o: Leetcode/200._Number_of_Islands.cpp.o
+
+.PHONY : Leetcode/200._Number_of_Islands.o
+
+# target to build an object file
+Leetcode/200._Number_of_Islands.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.o
+.PHONY : Leetcode/200._Number_of_Islands.cpp.o
+
+Leetcode/200._Number_of_Islands.i: Leetcode/200._Number_of_Islands.cpp.i
+
+.PHONY : Leetcode/200._Number_of_Islands.i
+
+# target to preprocess a source file
+Leetcode/200._Number_of_Islands.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.i
+.PHONY : Leetcode/200._Number_of_Islands.cpp.i
+
+Leetcode/200._Number_of_Islands.s: Leetcode/200._Number_of_Islands.cpp.s
+
+.PHONY : Leetcode/200._Number_of_Islands.s
+
+# target to generate assembly for a file
+Leetcode/200._Number_of_Islands.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.s
+.PHONY : Leetcode/200._Number_of_Islands.cpp.s
+
 Leetcode/209._Minimum_Size_Subarray_Sum.o: Leetcode/209._Minimum_Size_Subarray_Sum.cpp.o
 
 .PHONY : Leetcode/209._Minimum_Size_Subarray_Sum.o
@@ -339,6 +420,33 @@ Leetcode/387._First_Unique_Character.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/387._First_Unique_Character.cpp.s
 .PHONY : Leetcode/387._First_Unique_Character.cpp.s
 
+Leetcode/404._Sum_of_Left_Leaves.o: Leetcode/404._Sum_of_Left_Leaves.cpp.o
+
+.PHONY : Leetcode/404._Sum_of_Left_Leaves.o
+
+# target to build an object file
+Leetcode/404._Sum_of_Left_Leaves.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/404._Sum_of_Left_Leaves.cpp.o
+.PHONY : Leetcode/404._Sum_of_Left_Leaves.cpp.o
+
+Leetcode/404._Sum_of_Left_Leaves.i: Leetcode/404._Sum_of_Left_Leaves.cpp.i
+
+.PHONY : Leetcode/404._Sum_of_Left_Leaves.i
+
+# target to preprocess a source file
+Leetcode/404._Sum_of_Left_Leaves.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/404._Sum_of_Left_Leaves.cpp.i
+.PHONY : Leetcode/404._Sum_of_Left_Leaves.cpp.i
+
+Leetcode/404._Sum_of_Left_Leaves.s: Leetcode/404._Sum_of_Left_Leaves.cpp.s
+
+.PHONY : Leetcode/404._Sum_of_Left_Leaves.s
+
+# target to generate assembly for a file
+Leetcode/404._Sum_of_Left_Leaves.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/404._Sum_of_Left_Leaves.cpp.s
+.PHONY : Leetcode/404._Sum_of_Left_Leaves.cpp.s
+
 Leetcode/42._Trapping_Rain_Water.o: Leetcode/42._Trapping_Rain_Water.cpp.o
 
 .PHONY : Leetcode/42._Trapping_Rain_Water.o
@@ -447,6 +555,33 @@ Leetcode/451._Sort_Characters_By_Frequency.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/451._Sort_Characters_By_Frequency.cpp.s
 .PHONY : Leetcode/451._Sort_Characters_By_Frequency.cpp.s
 
+Leetcode/463._Island_Perimeter.o: Leetcode/463._Island_Perimeter.cpp.o
+
+.PHONY : Leetcode/463._Island_Perimeter.o
+
+# target to build an object file
+Leetcode/463._Island_Perimeter.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.o
+.PHONY : Leetcode/463._Island_Perimeter.cpp.o
+
+Leetcode/463._Island_Perimeter.i: Leetcode/463._Island_Perimeter.cpp.i
+
+.PHONY : Leetcode/463._Island_Perimeter.i
+
+# target to preprocess a source file
+Leetcode/463._Island_Perimeter.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.i
+.PHONY : Leetcode/463._Island_Perimeter.cpp.i
+
+Leetcode/463._Island_Perimeter.s: Leetcode/463._Island_Perimeter.cpp.s
+
+.PHONY : Leetcode/463._Island_Perimeter.s
+
+# target to generate assembly for a file
+Leetcode/463._Island_Perimeter.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.s
+.PHONY : Leetcode/463._Island_Perimeter.cpp.s
+
 Leetcode/50._Pow(x,_n).o: Leetcode/50._Pow(x,_n).cpp.o
 
 .PHONY : Leetcode/50._Pow(x,_n).o
@@ -528,6 +663,60 @@ Leetcode/53._Maximum_Subarray.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/53._Maximum_Subarray.cpp.s
 .PHONY : Leetcode/53._Maximum_Subarray.cpp.s
 
+Leetcode/547._Friend_Circles.o: Leetcode/547._Friend_Circles.cpp.o
+
+.PHONY : Leetcode/547._Friend_Circles.o
+
+# target to build an object file
+Leetcode/547._Friend_Circles.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/547._Friend_Circles.cpp.o
+.PHONY : Leetcode/547._Friend_Circles.cpp.o
+
+Leetcode/547._Friend_Circles.i: Leetcode/547._Friend_Circles.cpp.i
+
+.PHONY : Leetcode/547._Friend_Circles.i
+
+# target to preprocess a source file
+Leetcode/547._Friend_Circles.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/547._Friend_Circles.cpp.i
+.PHONY : Leetcode/547._Friend_Circles.cpp.i
+
+Leetcode/547._Friend_Circles.s: Leetcode/547._Friend_Circles.cpp.s
+
+.PHONY : Leetcode/547._Friend_Circles.s
+
+# target to generate assembly for a file
+Leetcode/547._Friend_Circles.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/547._Friend_Circles.cpp.s
+.PHONY : Leetcode/547._Friend_Circles.cpp.s
+
+Leetcode/559._Maximum_Depth_of_N-ary_Tree.o: Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.o
+
+.PHONY : Leetcode/559._Maximum_Depth_of_N-ary_Tree.o
+
+# target to build an object file
+Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.o
+.PHONY : Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.o
+
+Leetcode/559._Maximum_Depth_of_N-ary_Tree.i: Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.i
+
+.PHONY : Leetcode/559._Maximum_Depth_of_N-ary_Tree.i
+
+# target to preprocess a source file
+Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.i
+.PHONY : Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.i
+
+Leetcode/559._Maximum_Depth_of_N-ary_Tree.s: Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.s
+
+.PHONY : Leetcode/559._Maximum_Depth_of_N-ary_Tree.s
+
+# target to generate assembly for a file
+Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.s
+.PHONY : Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.s
+
 Leetcode/62._Unique_Paths.o: Leetcode/62._Unique_Paths.cpp.o
 
 .PHONY : Leetcode/62._Unique_Paths.o
@@ -608,6 +797,33 @@ Leetcode/69._Sqrt(x).s: Leetcode/69._Sqrt(x).cpp.s
 Leetcode/69._Sqrt(x).cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make "CMakeFiles/GG.dir/Leetcode/69._Sqrt(x).cpp.s"
 .PHONY : Leetcode/69._Sqrt(x).cpp.s
+
+Leetcode/695._Max_Area_of_Island_.o: Leetcode/695._Max_Area_of_Island_.cpp.o
+
+.PHONY : Leetcode/695._Max_Area_of_Island_.o
+
+# target to build an object file
+Leetcode/695._Max_Area_of_Island_.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.o
+.PHONY : Leetcode/695._Max_Area_of_Island_.cpp.o
+
+Leetcode/695._Max_Area_of_Island_.i: Leetcode/695._Max_Area_of_Island_.cpp.i
+
+.PHONY : Leetcode/695._Max_Area_of_Island_.i
+
+# target to preprocess a source file
+Leetcode/695._Max_Area_of_Island_.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.i
+.PHONY : Leetcode/695._Max_Area_of_Island_.cpp.i
+
+Leetcode/695._Max_Area_of_Island_.s: Leetcode/695._Max_Area_of_Island_.cpp.s
+
+.PHONY : Leetcode/695._Max_Area_of_Island_.s
+
+# target to generate assembly for a file
+Leetcode/695._Max_Area_of_Island_.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.s
+.PHONY : Leetcode/695._Max_Area_of_Island_.cpp.s
 
 Leetcode/697._Degree_of_an_Array.o: Leetcode/697._Degree_of_an_Array.cpp.o
 
@@ -717,6 +933,33 @@ Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.s
 .PHONY : Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.s
 
+Leetcode/872._Leaf-Similar_Trees.o: Leetcode/872._Leaf-Similar_Trees.cpp.o
+
+.PHONY : Leetcode/872._Leaf-Similar_Trees.o
+
+# target to build an object file
+Leetcode/872._Leaf-Similar_Trees.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/872._Leaf-Similar_Trees.cpp.o
+.PHONY : Leetcode/872._Leaf-Similar_Trees.cpp.o
+
+Leetcode/872._Leaf-Similar_Trees.i: Leetcode/872._Leaf-Similar_Trees.cpp.i
+
+.PHONY : Leetcode/872._Leaf-Similar_Trees.i
+
+# target to preprocess a source file
+Leetcode/872._Leaf-Similar_Trees.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/872._Leaf-Similar_Trees.cpp.i
+.PHONY : Leetcode/872._Leaf-Similar_Trees.cpp.i
+
+Leetcode/872._Leaf-Similar_Trees.s: Leetcode/872._Leaf-Similar_Trees.cpp.s
+
+.PHONY : Leetcode/872._Leaf-Similar_Trees.s
+
+# target to generate assembly for a file
+Leetcode/872._Leaf-Similar_Trees.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/872._Leaf-Similar_Trees.cpp.s
+.PHONY : Leetcode/872._Leaf-Similar_Trees.cpp.s
+
 Leetcode/905._Sort_Array_By_Parity.o: Leetcode/905._Sort_Array_By_Parity.cpp.o
 
 .PHONY : Leetcode/905._Sort_Array_By_Parity.o
@@ -771,6 +1014,33 @@ Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.s
 .PHONY : Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.s
 
+Leetcode/934._Shortest_Bridge.o: Leetcode/934._Shortest_Bridge.cpp.o
+
+.PHONY : Leetcode/934._Shortest_Bridge.o
+
+# target to build an object file
+Leetcode/934._Shortest_Bridge.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.o
+.PHONY : Leetcode/934._Shortest_Bridge.cpp.o
+
+Leetcode/934._Shortest_Bridge.i: Leetcode/934._Shortest_Bridge.cpp.i
+
+.PHONY : Leetcode/934._Shortest_Bridge.i
+
+# target to preprocess a source file
+Leetcode/934._Shortest_Bridge.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.i
+.PHONY : Leetcode/934._Shortest_Bridge.cpp.i
+
+Leetcode/934._Shortest_Bridge.s: Leetcode/934._Shortest_Bridge.cpp.s
+
+.PHONY : Leetcode/934._Shortest_Bridge.s
+
+# target to generate assembly for a file
+Leetcode/934._Shortest_Bridge.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.s
+.PHONY : Leetcode/934._Shortest_Bridge.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -810,6 +1080,15 @@ help:
 	@echo "... Leetcode/1._Two_Sum.o"
 	@echo "... Leetcode/1._Two_Sum.i"
 	@echo "... Leetcode/1._Two_Sum.s"
+	@echo "... Leetcode/100._Same_Tree.o"
+	@echo "... Leetcode/100._Same_Tree.i"
+	@echo "... Leetcode/100._Same_Tree.s"
+	@echo "... Leetcode/1020._Number_of_Enclaves.o"
+	@echo "... Leetcode/1020._Number_of_Enclaves.i"
+	@echo "... Leetcode/1020._Number_of_Enclaves.s"
+	@echo "... Leetcode/200._Number_of_Islands.o"
+	@echo "... Leetcode/200._Number_of_Islands.i"
+	@echo "... Leetcode/200._Number_of_Islands.s"
 	@echo "... Leetcode/209._Minimum_Size_Subarray_Sum.o"
 	@echo "... Leetcode/209._Minimum_Size_Subarray_Sum.i"
 	@echo "... Leetcode/209._Minimum_Size_Subarray_Sum.s"
@@ -831,6 +1110,9 @@ help:
 	@echo "... Leetcode/387._First_Unique_Character.o"
 	@echo "... Leetcode/387._First_Unique_Character.i"
 	@echo "... Leetcode/387._First_Unique_Character.s"
+	@echo "... Leetcode/404._Sum_of_Left_Leaves.o"
+	@echo "... Leetcode/404._Sum_of_Left_Leaves.i"
+	@echo "... Leetcode/404._Sum_of_Left_Leaves.s"
 	@echo "... Leetcode/42._Trapping_Rain_Water.o"
 	@echo "... Leetcode/42._Trapping_Rain_Water.i"
 	@echo "... Leetcode/42._Trapping_Rain_Water.s"
@@ -843,6 +1125,9 @@ help:
 	@echo "... Leetcode/451._Sort_Characters_By_Frequency.o"
 	@echo "... Leetcode/451._Sort_Characters_By_Frequency.i"
 	@echo "... Leetcode/451._Sort_Characters_By_Frequency.s"
+	@echo "... Leetcode/463._Island_Perimeter.o"
+	@echo "... Leetcode/463._Island_Perimeter.i"
+	@echo "... Leetcode/463._Island_Perimeter.s"
 	@echo "... Leetcode/50._Pow(x,_n).o"
 	@echo "... Leetcode/50._Pow(x,_n).i"
 	@echo "... Leetcode/50._Pow(x,_n).s"
@@ -852,6 +1137,12 @@ help:
 	@echo "... Leetcode/53._Maximum_Subarray.o"
 	@echo "... Leetcode/53._Maximum_Subarray.i"
 	@echo "... Leetcode/53._Maximum_Subarray.s"
+	@echo "... Leetcode/547._Friend_Circles.o"
+	@echo "... Leetcode/547._Friend_Circles.i"
+	@echo "... Leetcode/547._Friend_Circles.s"
+	@echo "... Leetcode/559._Maximum_Depth_of_N-ary_Tree.o"
+	@echo "... Leetcode/559._Maximum_Depth_of_N-ary_Tree.i"
+	@echo "... Leetcode/559._Maximum_Depth_of_N-ary_Tree.s"
 	@echo "... Leetcode/62._Unique_Paths.o"
 	@echo "... Leetcode/62._Unique_Paths.i"
 	@echo "... Leetcode/62._Unique_Paths.s"
@@ -861,6 +1152,9 @@ help:
 	@echo "... Leetcode/69._Sqrt(x).o"
 	@echo "... Leetcode/69._Sqrt(x).i"
 	@echo "... Leetcode/69._Sqrt(x).s"
+	@echo "... Leetcode/695._Max_Area_of_Island_.o"
+	@echo "... Leetcode/695._Max_Area_of_Island_.i"
+	@echo "... Leetcode/695._Max_Area_of_Island_.s"
 	@echo "... Leetcode/697._Degree_of_an_Array.o"
 	@echo "... Leetcode/697._Degree_of_an_Array.i"
 	@echo "... Leetcode/697._Degree_of_an_Array.s"
@@ -873,12 +1167,18 @@ help:
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.o"
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.i"
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.s"
+	@echo "... Leetcode/872._Leaf-Similar_Trees.o"
+	@echo "... Leetcode/872._Leaf-Similar_Trees.i"
+	@echo "... Leetcode/872._Leaf-Similar_Trees.s"
 	@echo "... Leetcode/905._Sort_Array_By_Parity.o"
 	@echo "... Leetcode/905._Sort_Array_By_Parity.i"
 	@echo "... Leetcode/905._Sort_Array_By_Parity.s"
 	@echo "... Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.o"
 	@echo "... Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.i"
 	@echo "... Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.s"
+	@echo "... Leetcode/934._Shortest_Bridge.o"
+	@echo "... Leetcode/934._Shortest_Bridge.i"
+	@echo "... Leetcode/934._Shortest_Bridge.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

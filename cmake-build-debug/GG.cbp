@@ -83,6 +83,15 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/1. Two Sum.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/100. Same Tree.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/1020. Number of Enclaves.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/200. Number of Islands.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/209. Minimum Size Subarray Sum.cpp">
 			<Option target="GG"/>
 		</Unit>
@@ -104,6 +113,9 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/387. First Unique Character.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/404. Sum of Left Leaves.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/42. Trapping Rain Water.cpp">
 			<Option target="GG"/>
 		</Unit>
@@ -116,6 +128,9 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/451. Sort Characters By Frequency.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/463. Island Perimeter.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/50. Pow(x, n).cpp">
 			<Option target="GG"/>
 		</Unit>
@@ -125,6 +140,12 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/53. Maximum Subarray.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/547. Friend Circles.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/559. Maximum Depth of N-ary Tree.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/62. Unique Paths.cpp">
 			<Option target="GG"/>
 		</Unit>
@@ -132,6 +153,9 @@
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/69. Sqrt(x).cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/695. Max Area of Island .cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/697. Degree of an Array.cpp">
@@ -146,10 +170,16 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/852. Peak Index in a Mountain Array.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/872. Leaf-Similar Trees.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/905. Sort Array By Parity.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/921. Minimum Add to Make Parentheses Valid.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/934. Shortest Bridge.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/main.cpp">
