@@ -86,7 +86,16 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/100. Same Tree.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/101. Symmetric Tree.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/1020. Number of Enclaves.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/107. Binary Tree Level Order Traversal II.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/111. Minimum Depth of Binary Tree .cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/200. Number of Islands.cpp">
@@ -117,6 +126,9 @@
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/42. Trapping Rain Water.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/429. N-ary Tree Level Order Traversal.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/442. Find All Duplicates in an Array.cpp">
@@ -155,6 +167,9 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/69. Sqrt(x).cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/690. Employee Importance.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/695. Max Area of Island .cpp">
 			<Option target="GG"/>
 		</Unit>
@@ -180,6 +195,12 @@
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/934. Shortest Bridge.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/993. Cousins in Binary Tree.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/994. Rotting Oranges.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/main.cpp">

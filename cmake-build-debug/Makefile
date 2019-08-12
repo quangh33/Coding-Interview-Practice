@@ -177,6 +177,33 @@ Leetcode/100._Same_Tree.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/100._Same_Tree.cpp.s
 .PHONY : Leetcode/100._Same_Tree.cpp.s
 
+Leetcode/101._Symmetric_Tree.o: Leetcode/101._Symmetric_Tree.cpp.o
+
+.PHONY : Leetcode/101._Symmetric_Tree.o
+
+# target to build an object file
+Leetcode/101._Symmetric_Tree.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.o
+.PHONY : Leetcode/101._Symmetric_Tree.cpp.o
+
+Leetcode/101._Symmetric_Tree.i: Leetcode/101._Symmetric_Tree.cpp.i
+
+.PHONY : Leetcode/101._Symmetric_Tree.i
+
+# target to preprocess a source file
+Leetcode/101._Symmetric_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.i
+.PHONY : Leetcode/101._Symmetric_Tree.cpp.i
+
+Leetcode/101._Symmetric_Tree.s: Leetcode/101._Symmetric_Tree.cpp.s
+
+.PHONY : Leetcode/101._Symmetric_Tree.s
+
+# target to generate assembly for a file
+Leetcode/101._Symmetric_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.s
+.PHONY : Leetcode/101._Symmetric_Tree.cpp.s
+
 Leetcode/1020._Number_of_Enclaves.o: Leetcode/1020._Number_of_Enclaves.cpp.o
 
 .PHONY : Leetcode/1020._Number_of_Enclaves.o
@@ -203,6 +230,60 @@ Leetcode/1020._Number_of_Enclaves.s: Leetcode/1020._Number_of_Enclaves.cpp.s
 Leetcode/1020._Number_of_Enclaves.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1020._Number_of_Enclaves.cpp.s
 .PHONY : Leetcode/1020._Number_of_Enclaves.cpp.s
+
+Leetcode/107._Binary_Tree_Level_Order_Traversal_II.o: Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o
+
+.PHONY : Leetcode/107._Binary_Tree_Level_Order_Traversal_II.o
+
+# target to build an object file
+Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o
+.PHONY : Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o
+
+Leetcode/107._Binary_Tree_Level_Order_Traversal_II.i: Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.i
+
+.PHONY : Leetcode/107._Binary_Tree_Level_Order_Traversal_II.i
+
+# target to preprocess a source file
+Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.i
+.PHONY : Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.i
+
+Leetcode/107._Binary_Tree_Level_Order_Traversal_II.s: Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.s
+
+.PHONY : Leetcode/107._Binary_Tree_Level_Order_Traversal_II.s
+
+# target to generate assembly for a file
+Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.s
+.PHONY : Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.s
+
+Leetcode/111._Minimum_Depth_of_Binary_Tree_.o: Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o
+
+.PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.o
+
+# target to build an object file
+Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o
+.PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o
+
+Leetcode/111._Minimum_Depth_of_Binary_Tree_.i: Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.i
+
+.PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.i
+
+# target to preprocess a source file
+Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.i
+.PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.i
+
+Leetcode/111._Minimum_Depth_of_Binary_Tree_.s: Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s
+
+.PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.s
+
+# target to generate assembly for a file
+Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s
+.PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s
 
 Leetcode/200._Number_of_Islands.o: Leetcode/200._Number_of_Islands.cpp.o
 
@@ -473,6 +554,33 @@ Leetcode/42._Trapping_Rain_Water.s: Leetcode/42._Trapping_Rain_Water.cpp.s
 Leetcode/42._Trapping_Rain_Water.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/42._Trapping_Rain_Water.cpp.s
 .PHONY : Leetcode/42._Trapping_Rain_Water.cpp.s
+
+Leetcode/429._N-ary_Tree_Level_Order_Traversal.o: Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o
+
+.PHONY : Leetcode/429._N-ary_Tree_Level_Order_Traversal.o
+
+# target to build an object file
+Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o
+.PHONY : Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o
+
+Leetcode/429._N-ary_Tree_Level_Order_Traversal.i: Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.i
+
+.PHONY : Leetcode/429._N-ary_Tree_Level_Order_Traversal.i
+
+# target to preprocess a source file
+Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.i
+.PHONY : Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.i
+
+Leetcode/429._N-ary_Tree_Level_Order_Traversal.s: Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.s
+
+.PHONY : Leetcode/429._N-ary_Tree_Level_Order_Traversal.s
+
+# target to generate assembly for a file
+Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.s
+.PHONY : Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.s
 
 Leetcode/442._Find_All_Duplicates_in_an_Array.o: Leetcode/442._Find_All_Duplicates_in_an_Array.cpp.o
 
@@ -798,6 +906,33 @@ Leetcode/69._Sqrt(x).cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make "CMakeFiles/GG.dir/Leetcode/69._Sqrt(x).cpp.s"
 .PHONY : Leetcode/69._Sqrt(x).cpp.s
 
+Leetcode/690._Employee_Importance.o: Leetcode/690._Employee_Importance.cpp.o
+
+.PHONY : Leetcode/690._Employee_Importance.o
+
+# target to build an object file
+Leetcode/690._Employee_Importance.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o
+.PHONY : Leetcode/690._Employee_Importance.cpp.o
+
+Leetcode/690._Employee_Importance.i: Leetcode/690._Employee_Importance.cpp.i
+
+.PHONY : Leetcode/690._Employee_Importance.i
+
+# target to preprocess a source file
+Leetcode/690._Employee_Importance.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.i
+.PHONY : Leetcode/690._Employee_Importance.cpp.i
+
+Leetcode/690._Employee_Importance.s: Leetcode/690._Employee_Importance.cpp.s
+
+.PHONY : Leetcode/690._Employee_Importance.s
+
+# target to generate assembly for a file
+Leetcode/690._Employee_Importance.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.s
+.PHONY : Leetcode/690._Employee_Importance.cpp.s
+
 Leetcode/695._Max_Area_of_Island_.o: Leetcode/695._Max_Area_of_Island_.cpp.o
 
 .PHONY : Leetcode/695._Max_Area_of_Island_.o
@@ -1041,6 +1176,60 @@ Leetcode/934._Shortest_Bridge.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.s
 .PHONY : Leetcode/934._Shortest_Bridge.cpp.s
 
+Leetcode/993._Cousins_in_Binary_Tree.o: Leetcode/993._Cousins_in_Binary_Tree.cpp.o
+
+.PHONY : Leetcode/993._Cousins_in_Binary_Tree.o
+
+# target to build an object file
+Leetcode/993._Cousins_in_Binary_Tree.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o
+.PHONY : Leetcode/993._Cousins_in_Binary_Tree.cpp.o
+
+Leetcode/993._Cousins_in_Binary_Tree.i: Leetcode/993._Cousins_in_Binary_Tree.cpp.i
+
+.PHONY : Leetcode/993._Cousins_in_Binary_Tree.i
+
+# target to preprocess a source file
+Leetcode/993._Cousins_in_Binary_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.i
+.PHONY : Leetcode/993._Cousins_in_Binary_Tree.cpp.i
+
+Leetcode/993._Cousins_in_Binary_Tree.s: Leetcode/993._Cousins_in_Binary_Tree.cpp.s
+
+.PHONY : Leetcode/993._Cousins_in_Binary_Tree.s
+
+# target to generate assembly for a file
+Leetcode/993._Cousins_in_Binary_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.s
+.PHONY : Leetcode/993._Cousins_in_Binary_Tree.cpp.s
+
+Leetcode/994._Rotting_Oranges.o: Leetcode/994._Rotting_Oranges.cpp.o
+
+.PHONY : Leetcode/994._Rotting_Oranges.o
+
+# target to build an object file
+Leetcode/994._Rotting_Oranges.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o
+.PHONY : Leetcode/994._Rotting_Oranges.cpp.o
+
+Leetcode/994._Rotting_Oranges.i: Leetcode/994._Rotting_Oranges.cpp.i
+
+.PHONY : Leetcode/994._Rotting_Oranges.i
+
+# target to preprocess a source file
+Leetcode/994._Rotting_Oranges.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.i
+.PHONY : Leetcode/994._Rotting_Oranges.cpp.i
+
+Leetcode/994._Rotting_Oranges.s: Leetcode/994._Rotting_Oranges.cpp.s
+
+.PHONY : Leetcode/994._Rotting_Oranges.s
+
+# target to generate assembly for a file
+Leetcode/994._Rotting_Oranges.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.s
+.PHONY : Leetcode/994._Rotting_Oranges.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -1083,9 +1272,18 @@ help:
 	@echo "... Leetcode/100._Same_Tree.o"
 	@echo "... Leetcode/100._Same_Tree.i"
 	@echo "... Leetcode/100._Same_Tree.s"
+	@echo "... Leetcode/101._Symmetric_Tree.o"
+	@echo "... Leetcode/101._Symmetric_Tree.i"
+	@echo "... Leetcode/101._Symmetric_Tree.s"
 	@echo "... Leetcode/1020._Number_of_Enclaves.o"
 	@echo "... Leetcode/1020._Number_of_Enclaves.i"
 	@echo "... Leetcode/1020._Number_of_Enclaves.s"
+	@echo "... Leetcode/107._Binary_Tree_Level_Order_Traversal_II.o"
+	@echo "... Leetcode/107._Binary_Tree_Level_Order_Traversal_II.i"
+	@echo "... Leetcode/107._Binary_Tree_Level_Order_Traversal_II.s"
+	@echo "... Leetcode/111._Minimum_Depth_of_Binary_Tree_.o"
+	@echo "... Leetcode/111._Minimum_Depth_of_Binary_Tree_.i"
+	@echo "... Leetcode/111._Minimum_Depth_of_Binary_Tree_.s"
 	@echo "... Leetcode/200._Number_of_Islands.o"
 	@echo "... Leetcode/200._Number_of_Islands.i"
 	@echo "... Leetcode/200._Number_of_Islands.s"
@@ -1116,6 +1314,9 @@ help:
 	@echo "... Leetcode/42._Trapping_Rain_Water.o"
 	@echo "... Leetcode/42._Trapping_Rain_Water.i"
 	@echo "... Leetcode/42._Trapping_Rain_Water.s"
+	@echo "... Leetcode/429._N-ary_Tree_Level_Order_Traversal.o"
+	@echo "... Leetcode/429._N-ary_Tree_Level_Order_Traversal.i"
+	@echo "... Leetcode/429._N-ary_Tree_Level_Order_Traversal.s"
 	@echo "... Leetcode/442._Find_All_Duplicates_in_an_Array.o"
 	@echo "... Leetcode/442._Find_All_Duplicates_in_an_Array.i"
 	@echo "... Leetcode/442._Find_All_Duplicates_in_an_Array.s"
@@ -1152,6 +1353,9 @@ help:
 	@echo "... Leetcode/69._Sqrt(x).o"
 	@echo "... Leetcode/69._Sqrt(x).i"
 	@echo "... Leetcode/69._Sqrt(x).s"
+	@echo "... Leetcode/690._Employee_Importance.o"
+	@echo "... Leetcode/690._Employee_Importance.i"
+	@echo "... Leetcode/690._Employee_Importance.s"
 	@echo "... Leetcode/695._Max_Area_of_Island_.o"
 	@echo "... Leetcode/695._Max_Area_of_Island_.i"
 	@echo "... Leetcode/695._Max_Area_of_Island_.s"
@@ -1179,6 +1383,12 @@ help:
 	@echo "... Leetcode/934._Shortest_Bridge.o"
 	@echo "... Leetcode/934._Shortest_Bridge.i"
 	@echo "... Leetcode/934._Shortest_Bridge.s"
+	@echo "... Leetcode/993._Cousins_in_Binary_Tree.o"
+	@echo "... Leetcode/993._Cousins_in_Binary_Tree.i"
+	@echo "... Leetcode/993._Cousins_in_Binary_Tree.s"
+	@echo "... Leetcode/994._Rotting_Oranges.o"
+	@echo "... Leetcode/994._Rotting_Oranges.i"
+	@echo "... Leetcode/994._Rotting_Oranges.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

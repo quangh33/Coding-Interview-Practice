@@ -512,6 +512,97 @@ CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/463. Island Perimeter.cpp" -o CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.s
 
+CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o: CMakeFiles/GG.dir/flags.make
+CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o: ../Leetcode/429.\ N-ary\ Tree\ Level\ Order\ Traversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o -c "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/429. N-ary Tree Level Order Traversal.cpp"
+
+CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/429. N-ary Tree Level Order Traversal.cpp" > CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.i
+
+CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/429. N-ary Tree Level Order Traversal.cpp" -o CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.s
+
+CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o: CMakeFiles/GG.dir/flags.make
+CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o: ../Leetcode/690.\ Employee\ Importance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o -c "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/690. Employee Importance.cpp"
+
+CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/690. Employee Importance.cpp" > CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.i
+
+CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/690. Employee Importance.cpp" -o CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.s
+
+CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o: CMakeFiles/GG.dir/flags.make
+CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o: ../Leetcode/993.\ Cousins\ in\ Binary\ Tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o -c "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/993. Cousins in Binary Tree.cpp"
+
+CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/993. Cousins in Binary Tree.cpp" > CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.i
+
+CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/993. Cousins in Binary Tree.cpp" -o CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.s
+
+CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o: CMakeFiles/GG.dir/flags.make
+CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o: ../Leetcode/107.\ Binary\ Tree\ Level\ Order\ Traversal\ II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o -c "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/107. Binary Tree Level Order Traversal II.cpp"
+
+CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/107. Binary Tree Level Order Traversal II.cpp" > CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.i
+
+CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/107. Binary Tree Level Order Traversal II.cpp" -o CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.s
+
+CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o: CMakeFiles/GG.dir/flags.make
+CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o: ../Leetcode/994.\ Rotting\ Oranges.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o -c "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/994. Rotting Oranges.cpp"
+
+CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/994. Rotting Oranges.cpp" > CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.i
+
+CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/994. Rotting Oranges.cpp" -o CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.s
+
+CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.o: CMakeFiles/GG.dir/flags.make
+CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.o: ../Leetcode/101.\ Symmetric\ Tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.o -c "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/101. Symmetric Tree.cpp"
+
+CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/101. Symmetric Tree.cpp" > CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.i
+
+CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/101. Symmetric Tree.cpp" -o CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.s
+
+CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o: CMakeFiles/GG.dir/flags.make
+CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o: ../Leetcode/111.\ Minimum\ Depth\ of\ Binary\ Tree\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o -c "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/111. Minimum Depth of Binary Tree .cpp"
+
+CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/111. Minimum Depth of Binary Tree .cpp" > CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.i
+
+CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/111. Minimum Depth of Binary Tree .cpp" -o CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s
+
 # Object files for target GG
 GG_OBJECTS = \
 "CMakeFiles/GG.dir/main.cpp.o" \
@@ -548,7 +639,14 @@ GG_OBJECTS = \
 "CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.o" \
 "CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.o" \
 "CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.o" \
-"CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.o"
+"CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.o" \
+"CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o" \
+"CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o" \
+"CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o" \
+"CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o" \
+"CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o" \
+"CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.o" \
+"CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o"
 
 # External object files for target GG
 GG_EXTERNAL_OBJECTS =
@@ -588,9 +686,16 @@ GG: CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.o
 GG: CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.o
 GG: CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.o
 GG: CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.o
+GG: CMakeFiles/GG.dir/Leetcode/429._N-ary_Tree_Level_Order_Traversal.cpp.o
+GG: CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o
+GG: CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o
+GG: CMakeFiles/GG.dir/Leetcode/107._Binary_Tree_Level_Order_Traversal_II.cpp.o
+GG: CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o
+GG: CMakeFiles/GG.dir/Leetcode/101._Symmetric_Tree.cpp.o
+GG: CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o
 GG: CMakeFiles/GG.dir/build.make
 GG: CMakeFiles/GG.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX executable GG"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/quang.hoang/CLionProjects/Coding Interview Practice/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_43) "Linking CXX executable GG"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GG.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
