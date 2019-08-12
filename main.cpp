@@ -24,12 +24,7 @@ int maxDepth(int u) {
 }
 
 int main() {
-    cin>>n;
-    for(int i = 1; i < n; i++) {
-        int u;
-        cin>>u;
-        children[u].push_back(i);
-    }
-    cout<<maxDepth(0);
+    int x = 8, y =2;
+    cout<< x & y;
     return 0;
 }

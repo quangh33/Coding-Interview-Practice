@@ -86,13 +86,7 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/100. Same Tree.cpp">
 			<Option target="GG"/>
 		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/1020. Number of Enclaves.cpp">
-			<Option target="GG"/>
-		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/111. Minimum Depth of Binary Tree .cpp">
-			<Option target="GG"/>
-		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/200. Number of Islands.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/209. Minimum Size Subarray Sum.cpp">
@@ -125,19 +119,10 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/451. Sort Characters By Frequency.cpp">
 			<Option target="GG"/>
 		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/463. Island Perimeter.cpp">
-			<Option target="GG"/>
-		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/50. Pow(x, n).cpp">
 			<Option target="GG"/>
 		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/509. Fibonacci Number.cpp">
-			<Option target="GG"/>
-		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/53. Maximum Subarray.cpp">
-			<Option target="GG"/>
-		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/542. 01 Matrix.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/547. Friend Circles.cpp">
@@ -158,13 +143,19 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/690. Employee Importance.cpp">
 			<Option target="GG"/>
 		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/695. Max Area of Island .cpp">
-			<Option target="GG"/>
-		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/697. Degree of an Array.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/718. Maximum Length of Repeated Subarray.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/773. Sliding Puzzle.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/84. Largest Rectangle in Histogram.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/85. Maximal Rectangle.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/852. Peak Index in a Mountain Array.cpp">
@@ -179,16 +170,19 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/905. Sort Array By Parity.cpp">
 			<Option target="GG"/>
 		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/934. Shortest Bridge.cpp">
-			<Option target="GG"/>
-		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/993. Cousins in Binary Tree.cpp">
 			<Option target="GG"/>
 		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/994. Rotting Oranges.cpp">
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/bfs_matrix/1091. Shortest Path in Binary Matrix.cpp">
 			<Option target="GG"/>
 		</Unit>
-		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/bfs_matrix/1091. Shortest Path in Binary Matrix.cpp">
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/bfs_matrix/542. 01 Matrix.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/bfs_matrix/934. Shortest Bridge.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/bfs_matrix/994. Rotting Oranges.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/bfs_tree_by_level/101. Symmetric Tree.cpp">
@@ -212,6 +206,21 @@
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/bfs_tree_by_level/515. Find Largest Value in Each Tree Row.cpp">
 			<Option target="GG"/>
 		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/dfs_matrix/1020. Number of Enclaves.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/dfs_matrix/200. Number of Islands.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/dfs_matrix/463. Island Perimeter.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/dfs_matrix/695. Max Area of Island .cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/dp/509. Fibonacci Number.cpp">
+			<Option target="GG"/>
+		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/dp/70. Climbing Stairs.cpp">
 			<Option target="GG"/>
 		</Unit>
@@ -219,6 +228,12 @@
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/duplicated_element_in_array/448. Find All Numbers Disappeared in an Array.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/parentheses/1021. Remove Outermost Parentheses.cpp">
+			<Option target="GG"/>
+		</Unit>
+		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/parentheses/20. Valid Parentheses.cpp">
 			<Option target="GG"/>
 		</Unit>
 		<Unit filename="/Users/quang.hoang/CLionProjects/Coding Interview Practice/Leetcode/parentheses/921. Minimum Add to Make Parentheses Valid.cpp">

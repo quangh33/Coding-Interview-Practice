@@ -177,33 +177,6 @@ Leetcode/100._Same_Tree.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/100._Same_Tree.cpp.s
 .PHONY : Leetcode/100._Same_Tree.cpp.s
 
-Leetcode/1020._Number_of_Enclaves.o: Leetcode/1020._Number_of_Enclaves.cpp.o
-
-.PHONY : Leetcode/1020._Number_of_Enclaves.o
-
-# target to build an object file
-Leetcode/1020._Number_of_Enclaves.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1020._Number_of_Enclaves.cpp.o
-.PHONY : Leetcode/1020._Number_of_Enclaves.cpp.o
-
-Leetcode/1020._Number_of_Enclaves.i: Leetcode/1020._Number_of_Enclaves.cpp.i
-
-.PHONY : Leetcode/1020._Number_of_Enclaves.i
-
-# target to preprocess a source file
-Leetcode/1020._Number_of_Enclaves.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1020._Number_of_Enclaves.cpp.i
-.PHONY : Leetcode/1020._Number_of_Enclaves.cpp.i
-
-Leetcode/1020._Number_of_Enclaves.s: Leetcode/1020._Number_of_Enclaves.cpp.s
-
-.PHONY : Leetcode/1020._Number_of_Enclaves.s
-
-# target to generate assembly for a file
-Leetcode/1020._Number_of_Enclaves.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/1020._Number_of_Enclaves.cpp.s
-.PHONY : Leetcode/1020._Number_of_Enclaves.cpp.s
-
 Leetcode/111._Minimum_Depth_of_Binary_Tree_.o: Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o
 
 .PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.o
@@ -230,33 +203,6 @@ Leetcode/111._Minimum_Depth_of_Binary_Tree_.s: Leetcode/111._Minimum_Depth_of_Bi
 Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s
 .PHONY : Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.s
-
-Leetcode/200._Number_of_Islands.o: Leetcode/200._Number_of_Islands.cpp.o
-
-.PHONY : Leetcode/200._Number_of_Islands.o
-
-# target to build an object file
-Leetcode/200._Number_of_Islands.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.o
-.PHONY : Leetcode/200._Number_of_Islands.cpp.o
-
-Leetcode/200._Number_of_Islands.i: Leetcode/200._Number_of_Islands.cpp.i
-
-.PHONY : Leetcode/200._Number_of_Islands.i
-
-# target to preprocess a source file
-Leetcode/200._Number_of_Islands.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.i
-.PHONY : Leetcode/200._Number_of_Islands.cpp.i
-
-Leetcode/200._Number_of_Islands.s: Leetcode/200._Number_of_Islands.cpp.s
-
-.PHONY : Leetcode/200._Number_of_Islands.s
-
-# target to generate assembly for a file
-Leetcode/200._Number_of_Islands.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/200._Number_of_Islands.cpp.s
-.PHONY : Leetcode/200._Number_of_Islands.cpp.s
 
 Leetcode/209._Minimum_Size_Subarray_Sum.o: Leetcode/209._Minimum_Size_Subarray_Sum.cpp.o
 
@@ -528,33 +474,6 @@ Leetcode/451._Sort_Characters_By_Frequency.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/451._Sort_Characters_By_Frequency.cpp.s
 .PHONY : Leetcode/451._Sort_Characters_By_Frequency.cpp.s
 
-Leetcode/463._Island_Perimeter.o: Leetcode/463._Island_Perimeter.cpp.o
-
-.PHONY : Leetcode/463._Island_Perimeter.o
-
-# target to build an object file
-Leetcode/463._Island_Perimeter.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.o
-.PHONY : Leetcode/463._Island_Perimeter.cpp.o
-
-Leetcode/463._Island_Perimeter.i: Leetcode/463._Island_Perimeter.cpp.i
-
-.PHONY : Leetcode/463._Island_Perimeter.i
-
-# target to preprocess a source file
-Leetcode/463._Island_Perimeter.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.i
-.PHONY : Leetcode/463._Island_Perimeter.cpp.i
-
-Leetcode/463._Island_Perimeter.s: Leetcode/463._Island_Perimeter.cpp.s
-
-.PHONY : Leetcode/463._Island_Perimeter.s
-
-# target to generate assembly for a file
-Leetcode/463._Island_Perimeter.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/463._Island_Perimeter.cpp.s
-.PHONY : Leetcode/463._Island_Perimeter.cpp.s
-
 Leetcode/50._Pow(x,_n).o: Leetcode/50._Pow(x,_n).cpp.o
 
 .PHONY : Leetcode/50._Pow(x,_n).o
@@ -582,33 +501,6 @@ Leetcode/50._Pow(x,_n).cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make "CMakeFiles/GG.dir/Leetcode/50._Pow(x,_n).cpp.s"
 .PHONY : Leetcode/50._Pow(x,_n).cpp.s
 
-Leetcode/509._Fibonacci_Number.o: Leetcode/509._Fibonacci_Number.cpp.o
-
-.PHONY : Leetcode/509._Fibonacci_Number.o
-
-# target to build an object file
-Leetcode/509._Fibonacci_Number.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/509._Fibonacci_Number.cpp.o
-.PHONY : Leetcode/509._Fibonacci_Number.cpp.o
-
-Leetcode/509._Fibonacci_Number.i: Leetcode/509._Fibonacci_Number.cpp.i
-
-.PHONY : Leetcode/509._Fibonacci_Number.i
-
-# target to preprocess a source file
-Leetcode/509._Fibonacci_Number.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/509._Fibonacci_Number.cpp.i
-.PHONY : Leetcode/509._Fibonacci_Number.cpp.i
-
-Leetcode/509._Fibonacci_Number.s: Leetcode/509._Fibonacci_Number.cpp.s
-
-.PHONY : Leetcode/509._Fibonacci_Number.s
-
-# target to generate assembly for a file
-Leetcode/509._Fibonacci_Number.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/509._Fibonacci_Number.cpp.s
-.PHONY : Leetcode/509._Fibonacci_Number.cpp.s
-
 Leetcode/53._Maximum_Subarray.o: Leetcode/53._Maximum_Subarray.cpp.o
 
 .PHONY : Leetcode/53._Maximum_Subarray.o
@@ -635,33 +527,6 @@ Leetcode/53._Maximum_Subarray.s: Leetcode/53._Maximum_Subarray.cpp.s
 Leetcode/53._Maximum_Subarray.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/53._Maximum_Subarray.cpp.s
 .PHONY : Leetcode/53._Maximum_Subarray.cpp.s
-
-Leetcode/542._01_Matrix.o: Leetcode/542._01_Matrix.cpp.o
-
-.PHONY : Leetcode/542._01_Matrix.o
-
-# target to build an object file
-Leetcode/542._01_Matrix.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/542._01_Matrix.cpp.o
-.PHONY : Leetcode/542._01_Matrix.cpp.o
-
-Leetcode/542._01_Matrix.i: Leetcode/542._01_Matrix.cpp.i
-
-.PHONY : Leetcode/542._01_Matrix.i
-
-# target to preprocess a source file
-Leetcode/542._01_Matrix.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/542._01_Matrix.cpp.i
-.PHONY : Leetcode/542._01_Matrix.cpp.i
-
-Leetcode/542._01_Matrix.s: Leetcode/542._01_Matrix.cpp.s
-
-.PHONY : Leetcode/542._01_Matrix.s
-
-# target to generate assembly for a file
-Leetcode/542._01_Matrix.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/542._01_Matrix.cpp.s
-.PHONY : Leetcode/542._01_Matrix.cpp.s
 
 Leetcode/547._Friend_Circles.o: Leetcode/547._Friend_Circles.cpp.o
 
@@ -825,33 +690,6 @@ Leetcode/690._Employee_Importance.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.s
 .PHONY : Leetcode/690._Employee_Importance.cpp.s
 
-Leetcode/695._Max_Area_of_Island_.o: Leetcode/695._Max_Area_of_Island_.cpp.o
-
-.PHONY : Leetcode/695._Max_Area_of_Island_.o
-
-# target to build an object file
-Leetcode/695._Max_Area_of_Island_.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.o
-.PHONY : Leetcode/695._Max_Area_of_Island_.cpp.o
-
-Leetcode/695._Max_Area_of_Island_.i: Leetcode/695._Max_Area_of_Island_.cpp.i
-
-.PHONY : Leetcode/695._Max_Area_of_Island_.i
-
-# target to preprocess a source file
-Leetcode/695._Max_Area_of_Island_.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.i
-.PHONY : Leetcode/695._Max_Area_of_Island_.cpp.i
-
-Leetcode/695._Max_Area_of_Island_.s: Leetcode/695._Max_Area_of_Island_.cpp.s
-
-.PHONY : Leetcode/695._Max_Area_of_Island_.s
-
-# target to generate assembly for a file
-Leetcode/695._Max_Area_of_Island_.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/695._Max_Area_of_Island_.cpp.s
-.PHONY : Leetcode/695._Max_Area_of_Island_.cpp.s
-
 Leetcode/697._Degree_of_an_Array.o: Leetcode/697._Degree_of_an_Array.cpp.o
 
 .PHONY : Leetcode/697._Degree_of_an_Array.o
@@ -905,6 +743,87 @@ Leetcode/718._Maximum_Length_of_Repeated_Subarray.s: Leetcode/718._Maximum_Lengt
 Leetcode/718._Maximum_Length_of_Repeated_Subarray.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/718._Maximum_Length_of_Repeated_Subarray.cpp.s
 .PHONY : Leetcode/718._Maximum_Length_of_Repeated_Subarray.cpp.s
+
+Leetcode/773._Sliding_Puzzle.o: Leetcode/773._Sliding_Puzzle.cpp.o
+
+.PHONY : Leetcode/773._Sliding_Puzzle.o
+
+# target to build an object file
+Leetcode/773._Sliding_Puzzle.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/773._Sliding_Puzzle.cpp.o
+.PHONY : Leetcode/773._Sliding_Puzzle.cpp.o
+
+Leetcode/773._Sliding_Puzzle.i: Leetcode/773._Sliding_Puzzle.cpp.i
+
+.PHONY : Leetcode/773._Sliding_Puzzle.i
+
+# target to preprocess a source file
+Leetcode/773._Sliding_Puzzle.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/773._Sliding_Puzzle.cpp.i
+.PHONY : Leetcode/773._Sliding_Puzzle.cpp.i
+
+Leetcode/773._Sliding_Puzzle.s: Leetcode/773._Sliding_Puzzle.cpp.s
+
+.PHONY : Leetcode/773._Sliding_Puzzle.s
+
+# target to generate assembly for a file
+Leetcode/773._Sliding_Puzzle.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/773._Sliding_Puzzle.cpp.s
+.PHONY : Leetcode/773._Sliding_Puzzle.cpp.s
+
+Leetcode/84._Largest_Rectangle_in_Histogram.o: Leetcode/84._Largest_Rectangle_in_Histogram.cpp.o
+
+.PHONY : Leetcode/84._Largest_Rectangle_in_Histogram.o
+
+# target to build an object file
+Leetcode/84._Largest_Rectangle_in_Histogram.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/84._Largest_Rectangle_in_Histogram.cpp.o
+.PHONY : Leetcode/84._Largest_Rectangle_in_Histogram.cpp.o
+
+Leetcode/84._Largest_Rectangle_in_Histogram.i: Leetcode/84._Largest_Rectangle_in_Histogram.cpp.i
+
+.PHONY : Leetcode/84._Largest_Rectangle_in_Histogram.i
+
+# target to preprocess a source file
+Leetcode/84._Largest_Rectangle_in_Histogram.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/84._Largest_Rectangle_in_Histogram.cpp.i
+.PHONY : Leetcode/84._Largest_Rectangle_in_Histogram.cpp.i
+
+Leetcode/84._Largest_Rectangle_in_Histogram.s: Leetcode/84._Largest_Rectangle_in_Histogram.cpp.s
+
+.PHONY : Leetcode/84._Largest_Rectangle_in_Histogram.s
+
+# target to generate assembly for a file
+Leetcode/84._Largest_Rectangle_in_Histogram.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/84._Largest_Rectangle_in_Histogram.cpp.s
+.PHONY : Leetcode/84._Largest_Rectangle_in_Histogram.cpp.s
+
+Leetcode/85._Maximal_Rectangle.o: Leetcode/85._Maximal_Rectangle.cpp.o
+
+.PHONY : Leetcode/85._Maximal_Rectangle.o
+
+# target to build an object file
+Leetcode/85._Maximal_Rectangle.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/85._Maximal_Rectangle.cpp.o
+.PHONY : Leetcode/85._Maximal_Rectangle.cpp.o
+
+Leetcode/85._Maximal_Rectangle.i: Leetcode/85._Maximal_Rectangle.cpp.i
+
+.PHONY : Leetcode/85._Maximal_Rectangle.i
+
+# target to preprocess a source file
+Leetcode/85._Maximal_Rectangle.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/85._Maximal_Rectangle.cpp.i
+.PHONY : Leetcode/85._Maximal_Rectangle.cpp.i
+
+Leetcode/85._Maximal_Rectangle.s: Leetcode/85._Maximal_Rectangle.cpp.s
+
+.PHONY : Leetcode/85._Maximal_Rectangle.s
+
+# target to generate assembly for a file
+Leetcode/85._Maximal_Rectangle.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/85._Maximal_Rectangle.cpp.s
+.PHONY : Leetcode/85._Maximal_Rectangle.cpp.s
 
 Leetcode/852._Peak_Index_in_a_Mountain_Array.o: Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.o
 
@@ -1014,33 +933,6 @@ Leetcode/905._Sort_Array_By_Parity.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/905._Sort_Array_By_Parity.cpp.s
 .PHONY : Leetcode/905._Sort_Array_By_Parity.cpp.s
 
-Leetcode/934._Shortest_Bridge.o: Leetcode/934._Shortest_Bridge.cpp.o
-
-.PHONY : Leetcode/934._Shortest_Bridge.o
-
-# target to build an object file
-Leetcode/934._Shortest_Bridge.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.o
-.PHONY : Leetcode/934._Shortest_Bridge.cpp.o
-
-Leetcode/934._Shortest_Bridge.i: Leetcode/934._Shortest_Bridge.cpp.i
-
-.PHONY : Leetcode/934._Shortest_Bridge.i
-
-# target to preprocess a source file
-Leetcode/934._Shortest_Bridge.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.i
-.PHONY : Leetcode/934._Shortest_Bridge.cpp.i
-
-Leetcode/934._Shortest_Bridge.s: Leetcode/934._Shortest_Bridge.cpp.s
-
-.PHONY : Leetcode/934._Shortest_Bridge.s
-
-# target to generate assembly for a file
-Leetcode/934._Shortest_Bridge.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/934._Shortest_Bridge.cpp.s
-.PHONY : Leetcode/934._Shortest_Bridge.cpp.s
-
 Leetcode/993._Cousins_in_Binary_Tree.o: Leetcode/993._Cousins_in_Binary_Tree.cpp.o
 
 .PHONY : Leetcode/993._Cousins_in_Binary_Tree.o
@@ -1068,33 +960,6 @@ Leetcode/993._Cousins_in_Binary_Tree.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.s
 .PHONY : Leetcode/993._Cousins_in_Binary_Tree.cpp.s
 
-Leetcode/994._Rotting_Oranges.o: Leetcode/994._Rotting_Oranges.cpp.o
-
-.PHONY : Leetcode/994._Rotting_Oranges.o
-
-# target to build an object file
-Leetcode/994._Rotting_Oranges.cpp.o:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.o
-.PHONY : Leetcode/994._Rotting_Oranges.cpp.o
-
-Leetcode/994._Rotting_Oranges.i: Leetcode/994._Rotting_Oranges.cpp.i
-
-.PHONY : Leetcode/994._Rotting_Oranges.i
-
-# target to preprocess a source file
-Leetcode/994._Rotting_Oranges.cpp.i:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.i
-.PHONY : Leetcode/994._Rotting_Oranges.cpp.i
-
-Leetcode/994._Rotting_Oranges.s: Leetcode/994._Rotting_Oranges.cpp.s
-
-.PHONY : Leetcode/994._Rotting_Oranges.s
-
-# target to generate assembly for a file
-Leetcode/994._Rotting_Oranges.cpp.s:
-	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/994._Rotting_Oranges.cpp.s
-.PHONY : Leetcode/994._Rotting_Oranges.cpp.s
-
 Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.o: Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.cpp.o
 
 .PHONY : Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.o
@@ -1121,6 +986,87 @@ Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.s: Leetcode/bfs_matrix/
 Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.cpp.s
 .PHONY : Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.cpp.s
+
+Leetcode/bfs_matrix/542._01_Matrix.o: Leetcode/bfs_matrix/542._01_Matrix.cpp.o
+
+.PHONY : Leetcode/bfs_matrix/542._01_Matrix.o
+
+# target to build an object file
+Leetcode/bfs_matrix/542._01_Matrix.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/542._01_Matrix.cpp.o
+.PHONY : Leetcode/bfs_matrix/542._01_Matrix.cpp.o
+
+Leetcode/bfs_matrix/542._01_Matrix.i: Leetcode/bfs_matrix/542._01_Matrix.cpp.i
+
+.PHONY : Leetcode/bfs_matrix/542._01_Matrix.i
+
+# target to preprocess a source file
+Leetcode/bfs_matrix/542._01_Matrix.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/542._01_Matrix.cpp.i
+.PHONY : Leetcode/bfs_matrix/542._01_Matrix.cpp.i
+
+Leetcode/bfs_matrix/542._01_Matrix.s: Leetcode/bfs_matrix/542._01_Matrix.cpp.s
+
+.PHONY : Leetcode/bfs_matrix/542._01_Matrix.s
+
+# target to generate assembly for a file
+Leetcode/bfs_matrix/542._01_Matrix.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/542._01_Matrix.cpp.s
+.PHONY : Leetcode/bfs_matrix/542._01_Matrix.cpp.s
+
+Leetcode/bfs_matrix/934._Shortest_Bridge.o: Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.o
+
+.PHONY : Leetcode/bfs_matrix/934._Shortest_Bridge.o
+
+# target to build an object file
+Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.o
+.PHONY : Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.o
+
+Leetcode/bfs_matrix/934._Shortest_Bridge.i: Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.i
+
+.PHONY : Leetcode/bfs_matrix/934._Shortest_Bridge.i
+
+# target to preprocess a source file
+Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.i
+.PHONY : Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.i
+
+Leetcode/bfs_matrix/934._Shortest_Bridge.s: Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.s
+
+.PHONY : Leetcode/bfs_matrix/934._Shortest_Bridge.s
+
+# target to generate assembly for a file
+Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.s
+.PHONY : Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.s
+
+Leetcode/bfs_matrix/994._Rotting_Oranges.o: Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.o
+
+.PHONY : Leetcode/bfs_matrix/994._Rotting_Oranges.o
+
+# target to build an object file
+Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.o
+.PHONY : Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.o
+
+Leetcode/bfs_matrix/994._Rotting_Oranges.i: Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.i
+
+.PHONY : Leetcode/bfs_matrix/994._Rotting_Oranges.i
+
+# target to preprocess a source file
+Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.i
+.PHONY : Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.i
+
+Leetcode/bfs_matrix/994._Rotting_Oranges.s: Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.s
+
+.PHONY : Leetcode/bfs_matrix/994._Rotting_Oranges.s
+
+# target to generate assembly for a file
+Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.s
+.PHONY : Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.s
 
 Leetcode/bfs_tree_by_level/101._Symmetric_Tree.o: Leetcode/bfs_tree_by_level/101._Symmetric_Tree.cpp.o
 
@@ -1311,6 +1257,141 @@ Leetcode/bfs_tree_by_level/515._Find_Largest_Value_in_Each_Tree_Row.cpp.s:
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/515._Find_Largest_Value_in_Each_Tree_Row.cpp.s
 .PHONY : Leetcode/bfs_tree_by_level/515._Find_Largest_Value_in_Each_Tree_Row.cpp.s
 
+Leetcode/dfs_matrix/1020._Number_of_Enclaves.o: Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.o
+
+.PHONY : Leetcode/dfs_matrix/1020._Number_of_Enclaves.o
+
+# target to build an object file
+Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.o
+.PHONY : Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.o
+
+Leetcode/dfs_matrix/1020._Number_of_Enclaves.i: Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.i
+
+.PHONY : Leetcode/dfs_matrix/1020._Number_of_Enclaves.i
+
+# target to preprocess a source file
+Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.i
+.PHONY : Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.i
+
+Leetcode/dfs_matrix/1020._Number_of_Enclaves.s: Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.s
+
+.PHONY : Leetcode/dfs_matrix/1020._Number_of_Enclaves.s
+
+# target to generate assembly for a file
+Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.s
+.PHONY : Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.s
+
+Leetcode/dfs_matrix/200._Number_of_Islands.o: Leetcode/dfs_matrix/200._Number_of_Islands.cpp.o
+
+.PHONY : Leetcode/dfs_matrix/200._Number_of_Islands.o
+
+# target to build an object file
+Leetcode/dfs_matrix/200._Number_of_Islands.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/200._Number_of_Islands.cpp.o
+.PHONY : Leetcode/dfs_matrix/200._Number_of_Islands.cpp.o
+
+Leetcode/dfs_matrix/200._Number_of_Islands.i: Leetcode/dfs_matrix/200._Number_of_Islands.cpp.i
+
+.PHONY : Leetcode/dfs_matrix/200._Number_of_Islands.i
+
+# target to preprocess a source file
+Leetcode/dfs_matrix/200._Number_of_Islands.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/200._Number_of_Islands.cpp.i
+.PHONY : Leetcode/dfs_matrix/200._Number_of_Islands.cpp.i
+
+Leetcode/dfs_matrix/200._Number_of_Islands.s: Leetcode/dfs_matrix/200._Number_of_Islands.cpp.s
+
+.PHONY : Leetcode/dfs_matrix/200._Number_of_Islands.s
+
+# target to generate assembly for a file
+Leetcode/dfs_matrix/200._Number_of_Islands.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/200._Number_of_Islands.cpp.s
+.PHONY : Leetcode/dfs_matrix/200._Number_of_Islands.cpp.s
+
+Leetcode/dfs_matrix/463._Island_Perimeter.o: Leetcode/dfs_matrix/463._Island_Perimeter.cpp.o
+
+.PHONY : Leetcode/dfs_matrix/463._Island_Perimeter.o
+
+# target to build an object file
+Leetcode/dfs_matrix/463._Island_Perimeter.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/463._Island_Perimeter.cpp.o
+.PHONY : Leetcode/dfs_matrix/463._Island_Perimeter.cpp.o
+
+Leetcode/dfs_matrix/463._Island_Perimeter.i: Leetcode/dfs_matrix/463._Island_Perimeter.cpp.i
+
+.PHONY : Leetcode/dfs_matrix/463._Island_Perimeter.i
+
+# target to preprocess a source file
+Leetcode/dfs_matrix/463._Island_Perimeter.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/463._Island_Perimeter.cpp.i
+.PHONY : Leetcode/dfs_matrix/463._Island_Perimeter.cpp.i
+
+Leetcode/dfs_matrix/463._Island_Perimeter.s: Leetcode/dfs_matrix/463._Island_Perimeter.cpp.s
+
+.PHONY : Leetcode/dfs_matrix/463._Island_Perimeter.s
+
+# target to generate assembly for a file
+Leetcode/dfs_matrix/463._Island_Perimeter.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/463._Island_Perimeter.cpp.s
+.PHONY : Leetcode/dfs_matrix/463._Island_Perimeter.cpp.s
+
+Leetcode/dfs_matrix/695._Max_Area_of_Island_.o: Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.o
+
+.PHONY : Leetcode/dfs_matrix/695._Max_Area_of_Island_.o
+
+# target to build an object file
+Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.o
+.PHONY : Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.o
+
+Leetcode/dfs_matrix/695._Max_Area_of_Island_.i: Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.i
+
+.PHONY : Leetcode/dfs_matrix/695._Max_Area_of_Island_.i
+
+# target to preprocess a source file
+Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.i
+.PHONY : Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.i
+
+Leetcode/dfs_matrix/695._Max_Area_of_Island_.s: Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.s
+
+.PHONY : Leetcode/dfs_matrix/695._Max_Area_of_Island_.s
+
+# target to generate assembly for a file
+Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.s
+.PHONY : Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.s
+
+Leetcode/dp/509._Fibonacci_Number.o: Leetcode/dp/509._Fibonacci_Number.cpp.o
+
+.PHONY : Leetcode/dp/509._Fibonacci_Number.o
+
+# target to build an object file
+Leetcode/dp/509._Fibonacci_Number.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dp/509._Fibonacci_Number.cpp.o
+.PHONY : Leetcode/dp/509._Fibonacci_Number.cpp.o
+
+Leetcode/dp/509._Fibonacci_Number.i: Leetcode/dp/509._Fibonacci_Number.cpp.i
+
+.PHONY : Leetcode/dp/509._Fibonacci_Number.i
+
+# target to preprocess a source file
+Leetcode/dp/509._Fibonacci_Number.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dp/509._Fibonacci_Number.cpp.i
+.PHONY : Leetcode/dp/509._Fibonacci_Number.cpp.i
+
+Leetcode/dp/509._Fibonacci_Number.s: Leetcode/dp/509._Fibonacci_Number.cpp.s
+
+.PHONY : Leetcode/dp/509._Fibonacci_Number.s
+
+# target to generate assembly for a file
+Leetcode/dp/509._Fibonacci_Number.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/dp/509._Fibonacci_Number.cpp.s
+.PHONY : Leetcode/dp/509._Fibonacci_Number.cpp.s
+
 Leetcode/dp/70._Climbing_Stairs.o: Leetcode/dp/70._Climbing_Stairs.cpp.o
 
 .PHONY : Leetcode/dp/70._Climbing_Stairs.o
@@ -1392,6 +1473,60 @@ Leetcode/duplicated_element_in_array/448._Find_All_Numbers_Disappeared_in_an_Arr
 	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/duplicated_element_in_array/448._Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 .PHONY : Leetcode/duplicated_element_in_array/448._Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 
+Leetcode/parentheses/1021._Remove_Outermost_Parentheses.o: Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.o
+
+.PHONY : Leetcode/parentheses/1021._Remove_Outermost_Parentheses.o
+
+# target to build an object file
+Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.o
+.PHONY : Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.o
+
+Leetcode/parentheses/1021._Remove_Outermost_Parentheses.i: Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.i
+
+.PHONY : Leetcode/parentheses/1021._Remove_Outermost_Parentheses.i
+
+# target to preprocess a source file
+Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.i
+.PHONY : Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.i
+
+Leetcode/parentheses/1021._Remove_Outermost_Parentheses.s: Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.s
+
+.PHONY : Leetcode/parentheses/1021._Remove_Outermost_Parentheses.s
+
+# target to generate assembly for a file
+Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.s
+.PHONY : Leetcode/parentheses/1021._Remove_Outermost_Parentheses.cpp.s
+
+Leetcode/parentheses/20._Valid_Parentheses.o: Leetcode/parentheses/20._Valid_Parentheses.cpp.o
+
+.PHONY : Leetcode/parentheses/20._Valid_Parentheses.o
+
+# target to build an object file
+Leetcode/parentheses/20._Valid_Parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/parentheses/20._Valid_Parentheses.cpp.o
+.PHONY : Leetcode/parentheses/20._Valid_Parentheses.cpp.o
+
+Leetcode/parentheses/20._Valid_Parentheses.i: Leetcode/parentheses/20._Valid_Parentheses.cpp.i
+
+.PHONY : Leetcode/parentheses/20._Valid_Parentheses.i
+
+# target to preprocess a source file
+Leetcode/parentheses/20._Valid_Parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/parentheses/20._Valid_Parentheses.cpp.i
+.PHONY : Leetcode/parentheses/20._Valid_Parentheses.cpp.i
+
+Leetcode/parentheses/20._Valid_Parentheses.s: Leetcode/parentheses/20._Valid_Parentheses.cpp.s
+
+.PHONY : Leetcode/parentheses/20._Valid_Parentheses.s
+
+# target to generate assembly for a file
+Leetcode/parentheses/20._Valid_Parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/GG.dir/build.make CMakeFiles/GG.dir/Leetcode/parentheses/20._Valid_Parentheses.cpp.s
+.PHONY : Leetcode/parentheses/20._Valid_Parentheses.cpp.s
+
 Leetcode/parentheses/921._Minimum_Add_to_Make_Parentheses_Valid.o: Leetcode/parentheses/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.o
 
 .PHONY : Leetcode/parentheses/921._Minimum_Add_to_Make_Parentheses_Valid.o
@@ -1461,15 +1596,9 @@ help:
 	@echo "... Leetcode/100._Same_Tree.o"
 	@echo "... Leetcode/100._Same_Tree.i"
 	@echo "... Leetcode/100._Same_Tree.s"
-	@echo "... Leetcode/1020._Number_of_Enclaves.o"
-	@echo "... Leetcode/1020._Number_of_Enclaves.i"
-	@echo "... Leetcode/1020._Number_of_Enclaves.s"
 	@echo "... Leetcode/111._Minimum_Depth_of_Binary_Tree_.o"
 	@echo "... Leetcode/111._Minimum_Depth_of_Binary_Tree_.i"
 	@echo "... Leetcode/111._Minimum_Depth_of_Binary_Tree_.s"
-	@echo "... Leetcode/200._Number_of_Islands.o"
-	@echo "... Leetcode/200._Number_of_Islands.i"
-	@echo "... Leetcode/200._Number_of_Islands.s"
 	@echo "... Leetcode/209._Minimum_Size_Subarray_Sum.o"
 	@echo "... Leetcode/209._Minimum_Size_Subarray_Sum.i"
 	@echo "... Leetcode/209._Minimum_Size_Subarray_Sum.s"
@@ -1500,21 +1629,12 @@ help:
 	@echo "... Leetcode/451._Sort_Characters_By_Frequency.o"
 	@echo "... Leetcode/451._Sort_Characters_By_Frequency.i"
 	@echo "... Leetcode/451._Sort_Characters_By_Frequency.s"
-	@echo "... Leetcode/463._Island_Perimeter.o"
-	@echo "... Leetcode/463._Island_Perimeter.i"
-	@echo "... Leetcode/463._Island_Perimeter.s"
 	@echo "... Leetcode/50._Pow(x,_n).o"
 	@echo "... Leetcode/50._Pow(x,_n).i"
 	@echo "... Leetcode/50._Pow(x,_n).s"
-	@echo "... Leetcode/509._Fibonacci_Number.o"
-	@echo "... Leetcode/509._Fibonacci_Number.i"
-	@echo "... Leetcode/509._Fibonacci_Number.s"
 	@echo "... Leetcode/53._Maximum_Subarray.o"
 	@echo "... Leetcode/53._Maximum_Subarray.i"
 	@echo "... Leetcode/53._Maximum_Subarray.s"
-	@echo "... Leetcode/542._01_Matrix.o"
-	@echo "... Leetcode/542._01_Matrix.i"
-	@echo "... Leetcode/542._01_Matrix.s"
 	@echo "... Leetcode/547._Friend_Circles.o"
 	@echo "... Leetcode/547._Friend_Circles.i"
 	@echo "... Leetcode/547._Friend_Circles.s"
@@ -1533,15 +1653,21 @@ help:
 	@echo "... Leetcode/690._Employee_Importance.o"
 	@echo "... Leetcode/690._Employee_Importance.i"
 	@echo "... Leetcode/690._Employee_Importance.s"
-	@echo "... Leetcode/695._Max_Area_of_Island_.o"
-	@echo "... Leetcode/695._Max_Area_of_Island_.i"
-	@echo "... Leetcode/695._Max_Area_of_Island_.s"
 	@echo "... Leetcode/697._Degree_of_an_Array.o"
 	@echo "... Leetcode/697._Degree_of_an_Array.i"
 	@echo "... Leetcode/697._Degree_of_an_Array.s"
 	@echo "... Leetcode/718._Maximum_Length_of_Repeated_Subarray.o"
 	@echo "... Leetcode/718._Maximum_Length_of_Repeated_Subarray.i"
 	@echo "... Leetcode/718._Maximum_Length_of_Repeated_Subarray.s"
+	@echo "... Leetcode/773._Sliding_Puzzle.o"
+	@echo "... Leetcode/773._Sliding_Puzzle.i"
+	@echo "... Leetcode/773._Sliding_Puzzle.s"
+	@echo "... Leetcode/84._Largest_Rectangle_in_Histogram.o"
+	@echo "... Leetcode/84._Largest_Rectangle_in_Histogram.i"
+	@echo "... Leetcode/84._Largest_Rectangle_in_Histogram.s"
+	@echo "... Leetcode/85._Maximal_Rectangle.o"
+	@echo "... Leetcode/85._Maximal_Rectangle.i"
+	@echo "... Leetcode/85._Maximal_Rectangle.s"
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.o"
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.i"
 	@echo "... Leetcode/852._Peak_Index_in_a_Mountain_Array.s"
@@ -1554,18 +1680,21 @@ help:
 	@echo "... Leetcode/905._Sort_Array_By_Parity.o"
 	@echo "... Leetcode/905._Sort_Array_By_Parity.i"
 	@echo "... Leetcode/905._Sort_Array_By_Parity.s"
-	@echo "... Leetcode/934._Shortest_Bridge.o"
-	@echo "... Leetcode/934._Shortest_Bridge.i"
-	@echo "... Leetcode/934._Shortest_Bridge.s"
 	@echo "... Leetcode/993._Cousins_in_Binary_Tree.o"
 	@echo "... Leetcode/993._Cousins_in_Binary_Tree.i"
 	@echo "... Leetcode/993._Cousins_in_Binary_Tree.s"
-	@echo "... Leetcode/994._Rotting_Oranges.o"
-	@echo "... Leetcode/994._Rotting_Oranges.i"
-	@echo "... Leetcode/994._Rotting_Oranges.s"
 	@echo "... Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.o"
 	@echo "... Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.i"
 	@echo "... Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.s"
+	@echo "... Leetcode/bfs_matrix/542._01_Matrix.o"
+	@echo "... Leetcode/bfs_matrix/542._01_Matrix.i"
+	@echo "... Leetcode/bfs_matrix/542._01_Matrix.s"
+	@echo "... Leetcode/bfs_matrix/934._Shortest_Bridge.o"
+	@echo "... Leetcode/bfs_matrix/934._Shortest_Bridge.i"
+	@echo "... Leetcode/bfs_matrix/934._Shortest_Bridge.s"
+	@echo "... Leetcode/bfs_matrix/994._Rotting_Oranges.o"
+	@echo "... Leetcode/bfs_matrix/994._Rotting_Oranges.i"
+	@echo "... Leetcode/bfs_matrix/994._Rotting_Oranges.s"
 	@echo "... Leetcode/bfs_tree_by_level/101._Symmetric_Tree.o"
 	@echo "... Leetcode/bfs_tree_by_level/101._Symmetric_Tree.i"
 	@echo "... Leetcode/bfs_tree_by_level/101._Symmetric_Tree.s"
@@ -1587,6 +1716,21 @@ help:
 	@echo "... Leetcode/bfs_tree_by_level/515._Find_Largest_Value_in_Each_Tree_Row.o"
 	@echo "... Leetcode/bfs_tree_by_level/515._Find_Largest_Value_in_Each_Tree_Row.i"
 	@echo "... Leetcode/bfs_tree_by_level/515._Find_Largest_Value_in_Each_Tree_Row.s"
+	@echo "... Leetcode/dfs_matrix/1020._Number_of_Enclaves.o"
+	@echo "... Leetcode/dfs_matrix/1020._Number_of_Enclaves.i"
+	@echo "... Leetcode/dfs_matrix/1020._Number_of_Enclaves.s"
+	@echo "... Leetcode/dfs_matrix/200._Number_of_Islands.o"
+	@echo "... Leetcode/dfs_matrix/200._Number_of_Islands.i"
+	@echo "... Leetcode/dfs_matrix/200._Number_of_Islands.s"
+	@echo "... Leetcode/dfs_matrix/463._Island_Perimeter.o"
+	@echo "... Leetcode/dfs_matrix/463._Island_Perimeter.i"
+	@echo "... Leetcode/dfs_matrix/463._Island_Perimeter.s"
+	@echo "... Leetcode/dfs_matrix/695._Max_Area_of_Island_.o"
+	@echo "... Leetcode/dfs_matrix/695._Max_Area_of_Island_.i"
+	@echo "... Leetcode/dfs_matrix/695._Max_Area_of_Island_.s"
+	@echo "... Leetcode/dp/509._Fibonacci_Number.o"
+	@echo "... Leetcode/dp/509._Fibonacci_Number.i"
+	@echo "... Leetcode/dp/509._Fibonacci_Number.s"
 	@echo "... Leetcode/dp/70._Climbing_Stairs.o"
 	@echo "... Leetcode/dp/70._Climbing_Stairs.i"
 	@echo "... Leetcode/dp/70._Climbing_Stairs.s"
@@ -1596,6 +1740,12 @@ help:
 	@echo "... Leetcode/duplicated_element_in_array/448._Find_All_Numbers_Disappeared_in_an_Array.o"
 	@echo "... Leetcode/duplicated_element_in_array/448._Find_All_Numbers_Disappeared_in_an_Array.i"
 	@echo "... Leetcode/duplicated_element_in_array/448._Find_All_Numbers_Disappeared_in_an_Array.s"
+	@echo "... Leetcode/parentheses/1021._Remove_Outermost_Parentheses.o"
+	@echo "... Leetcode/parentheses/1021._Remove_Outermost_Parentheses.i"
+	@echo "... Leetcode/parentheses/1021._Remove_Outermost_Parentheses.s"
+	@echo "... Leetcode/parentheses/20._Valid_Parentheses.o"
+	@echo "... Leetcode/parentheses/20._Valid_Parentheses.i"
+	@echo "... Leetcode/parentheses/20._Valid_Parentheses.s"
 	@echo "... Leetcode/parentheses/921._Minimum_Add_to_Make_Parentheses_Valid.o"
 	@echo "... Leetcode/parentheses/921._Minimum_Add_to_Make_Parentheses_Valid.i"
 	@echo "... Leetcode/parentheses/921._Minimum_Add_to_Make_Parentheses_Valid.s"

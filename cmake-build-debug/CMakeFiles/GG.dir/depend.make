@@ -3,6 +3,10 @@
 
 CMakeFiles/GG.dir/Leetcode/1._Two_Sum.cpp.o: ../Leetcode/1.\ Two\ Sum.cpp
 
+CMakeFiles/GG.dir/Leetcode/100._Same_Tree.cpp.o: ../Leetcode/100.\ Same\ Tree.cpp
+
+CMakeFiles/GG.dir/Leetcode/111._Minimum_Depth_of_Binary_Tree_.cpp.o: ../Leetcode/111.\ Minimum\ Depth\ of\ Binary\ Tree\ .cpp
+
 CMakeFiles/GG.dir/Leetcode/209._Minimum_Size_Subarray_Sum.cpp.o: ../Leetcode/209.\ Minimum\ Size\ Subarray\ Sum.cpp
 
 CMakeFiles/GG.dir/Leetcode/228._Summary_Ranges.cpp.o: ../Leetcode/228.\ Summary\ Ranges.cpp
@@ -17,19 +21,19 @@ CMakeFiles/GG.dir/Leetcode/367._Valid_Perfect_Square.cpp.o: ../Leetcode/367.\ Va
 
 CMakeFiles/GG.dir/Leetcode/387._First_Unique_Character.cpp.o: ../Leetcode/387.\ First\ Unique\ Character.cpp
 
+CMakeFiles/GG.dir/Leetcode/404._Sum_of_Left_Leaves.cpp.o: ../Leetcode/404.\ Sum\ of\ Left\ Leaves.cpp
+
 CMakeFiles/GG.dir/Leetcode/42._Trapping_Rain_Water.cpp.o: ../Leetcode/42.\ Trapping\ Rain\ Water.cpp
-
-CMakeFiles/GG.dir/Leetcode/442._Find_All_Duplicates_in_an_Array.cpp.o: ../Leetcode/442.\ Find\ All\ Duplicates\ in\ an\ Array.cpp
-
-CMakeFiles/GG.dir/Leetcode/448._Find_All_Numbers_Disappeared_in_an_Array.cpp.o: ../Leetcode/448.\ Find\ All\ Numbers\ Disappeared\ in\ an\ Array.cpp
 
 CMakeFiles/GG.dir/Leetcode/451._Sort_Characters_By_Frequency.cpp.o: ../Leetcode/451.\ Sort\ Characters\ By\ Frequency.cpp
 
 CMakeFiles/GG.dir/Leetcode/50._Pow(x,_n).cpp.o: ../Leetcode/50.\ Pow(x,\ n).cpp
 
-CMakeFiles/GG.dir/Leetcode/509._Fibonacci_Number.cpp.o: ../Leetcode/509.\ Fibonacci\ Number.cpp
-
 CMakeFiles/GG.dir/Leetcode/53._Maximum_Subarray.cpp.o: ../Leetcode/53.\ Maximum\ Subarray.cpp
+
+CMakeFiles/GG.dir/Leetcode/547._Friend_Circles.cpp.o: ../Leetcode/547.\ Friend\ Circles.cpp
+
+CMakeFiles/GG.dir/Leetcode/559._Maximum_Depth_of_N-ary_Tree.cpp.o: ../Leetcode/559.\ Maximum\ Depth\ of\ N-ary\ Tree.cpp
 
 CMakeFiles/GG.dir/Leetcode/62._Unique_Paths.cpp.o: ../Leetcode/62.\ Unique\ Paths.cpp
 
@@ -37,17 +41,63 @@ CMakeFiles/GG.dir/Leetcode/665._Non-decreasing_Array.cpp.o: ../Leetcode/665.\ No
 
 CMakeFiles/GG.dir/Leetcode/69._Sqrt(x).cpp.o: ../Leetcode/69.\ Sqrt(x).cpp
 
-CMakeFiles/GG.dir/Leetcode/697._Degree_of_an_Array.cpp.o: ../Leetcode/697.\ Degree\ of\ an\ Array.cpp
+CMakeFiles/GG.dir/Leetcode/690._Employee_Importance.cpp.o: ../Leetcode/690.\ Employee\ Importance.cpp
 
-CMakeFiles/GG.dir/Leetcode/70._Climbing_Stairs.cpp.o: ../Leetcode/70.\ Climbing\ Stairs.cpp
+CMakeFiles/GG.dir/Leetcode/697._Degree_of_an_Array.cpp.o: ../Leetcode/697.\ Degree\ of\ an\ Array.cpp
 
 CMakeFiles/GG.dir/Leetcode/718._Maximum_Length_of_Repeated_Subarray.cpp.o: ../Leetcode/718.\ Maximum\ Length\ of\ Repeated\ Subarray.cpp
 
+CMakeFiles/GG.dir/Leetcode/773._Sliding_Puzzle.cpp.o: ../Leetcode/773.\ Sliding\ Puzzle.cpp
+
 CMakeFiles/GG.dir/Leetcode/852._Peak_Index_in_a_Mountain_Array.cpp.o: ../Leetcode/852.\ Peak\ Index\ in\ a\ Mountain\ Array.cpp
+
+CMakeFiles/GG.dir/Leetcode/863._All_Nodes_Distance_K_in_Binary_Tree_.cpp.o: ../Leetcode/863.\ All\ Nodes\ Distance\ K\ in\ Binary\ Tree\ .cpp
+
+CMakeFiles/GG.dir/Leetcode/872._Leaf-Similar_Trees.cpp.o: ../Leetcode/872.\ Leaf-Similar\ Trees.cpp
 
 CMakeFiles/GG.dir/Leetcode/905._Sort_Array_By_Parity.cpp.o: ../Leetcode/905.\ Sort\ Array\ By\ Parity.cpp
 
-CMakeFiles/GG.dir/Leetcode/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.o: ../Leetcode/921.\ Minimum\ Add\ to\ Make\ Parentheses\ Valid.cpp
+CMakeFiles/GG.dir/Leetcode/993._Cousins_in_Binary_Tree.cpp.o: ../Leetcode/993.\ Cousins\ in\ Binary\ Tree.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_matrix/1091._Shortest_Path_in_Binary_Matrix.cpp.o: ../Leetcode/bfs_matrix/1091.\ Shortest\ Path\ in\ Binary\ Matrix.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_matrix/542._01_Matrix.cpp.o: ../Leetcode/bfs_matrix/542.\ 01\ Matrix.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_matrix/934._Shortest_Bridge.cpp.o: ../Leetcode/bfs_matrix/934.\ Shortest\ Bridge.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_matrix/994._Rotting_Oranges.cpp.o: ../Leetcode/bfs_matrix/994.\ Rotting\ Oranges.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/101._Symmetric_Tree.cpp.o: ../Leetcode/bfs_tree_by_level/101.\ Symmetric\ Tree.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/102._Binary_Tree_Level_Order_Traversal.cpp.o: ../Leetcode/bfs_tree_by_level/102.\ Binary\ Tree\ Level\ Order\ Traversal.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/107._Binary_Tree_Level_Order_Traversal_II.cpp.o: ../Leetcode/bfs_tree_by_level/107.\ Binary\ Tree\ Level\ Order\ Traversal\ II.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/199._Binary_Tree_Right_Side_View.cpp.o: ../Leetcode/bfs_tree_by_level/199.\ Binary\ Tree\ Right\ Side\ View.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/429._N-ary_Tree_Level_Order_Traversal.cpp.o: ../Leetcode/bfs_tree_by_level/429.\ N-ary\ Tree\ Level\ Order\ Traversal.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/513._Find_Bottom_Left_Tree_Value.cpp.o: ../Leetcode/bfs_tree_by_level/513.\ Find\ Bottom\ Left\ Tree\ Value.cpp
+
+CMakeFiles/GG.dir/Leetcode/bfs_tree_by_level/515._Find_Largest_Value_in_Each_Tree_Row.cpp.o: ../Leetcode/bfs_tree_by_level/515.\ Find\ Largest\ Value\ in\ Each\ Tree\ Row.cpp
+
+CMakeFiles/GG.dir/Leetcode/dfs_matrix/1020._Number_of_Enclaves.cpp.o: ../Leetcode/dfs_matrix/1020.\ Number\ of\ Enclaves.cpp
+
+CMakeFiles/GG.dir/Leetcode/dfs_matrix/200._Number_of_Islands.cpp.o: ../Leetcode/dfs_matrix/200.\ Number\ of\ Islands.cpp
+
+CMakeFiles/GG.dir/Leetcode/dfs_matrix/463._Island_Perimeter.cpp.o: ../Leetcode/dfs_matrix/463.\ Island\ Perimeter.cpp
+
+CMakeFiles/GG.dir/Leetcode/dfs_matrix/695._Max_Area_of_Island_.cpp.o: ../Leetcode/dfs_matrix/695.\ Max\ Area\ of\ Island\ .cpp
+
+CMakeFiles/GG.dir/Leetcode/dp/509._Fibonacci_Number.cpp.o: ../Leetcode/dp/509.\ Fibonacci\ Number.cpp
+
+CMakeFiles/GG.dir/Leetcode/dp/70._Climbing_Stairs.cpp.o: ../Leetcode/dp/70.\ Climbing\ Stairs.cpp
+
+CMakeFiles/GG.dir/Leetcode/duplicated_element_in_array/442._Find_All_Duplicates_in_an_Array.cpp.o: ../Leetcode/duplicated_element_in_array/442.\ Find\ All\ Duplicates\ in\ an\ Array.cpp
+
+CMakeFiles/GG.dir/Leetcode/duplicated_element_in_array/448._Find_All_Numbers_Disappeared_in_an_Array.cpp.o: ../Leetcode/duplicated_element_in_array/448.\ Find\ All\ Numbers\ Disappeared\ in\ an\ Array.cpp
+
+CMakeFiles/GG.dir/Leetcode/parentheses/921._Minimum_Add_to_Make_Parentheses_Valid.cpp.o: ../Leetcode/parentheses/921.\ Minimum\ Add\ to\ Make\ Parentheses\ Valid.cpp
 
 CMakeFiles/GG.dir/main.cpp.o: ../main.cpp
 
