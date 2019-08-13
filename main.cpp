@@ -13,18 +13,7 @@ using namespace std;
 int n;
 vector<int> children[5001];
 
-int maxDepth(int u) {
-    if (children[u].size() == 0) return 1;
-    int maxDep = 0;
-    for(int i = 0; i < children[u].size(); i++) {
-        int v = children[u][i];
-        maxDep = max(maxDep, maxDepth(v));
-    }
-    return maxDep+1;
-}
-
 int main() {
-    int x = 8, y =2;
-    cout<< x & y;
+    cout<< (1 << 4);
     return 0;
 }
