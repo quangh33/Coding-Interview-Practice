@@ -34,8 +34,29 @@ vector<vector<int>> permuteUnique(vector<int>& a) {
     return res;
 }
 
+int jump(vector<int>& a) {
+    int step = 0;
+    int i = 0;
+    int n = a.size();
+    int furthest = 0;
+    while (true) {
+        if (furthest >= n-1) break;
+        int nextStep;
+        int temp = furthest;
+        for(int j = i; j <= temp; j++) {
+            if (j + a[j] > furthest) {
+                nextStep = j;
+                furthest = j + a[j];
+            }
+        }
+        i = nextStep;
+        step++;
+    }
+    return step;
+}
+
 int main() {
-    vector<int> a = { 1, 1, 2 };
-    permuteUnique(a);
+    vector<int> a = { 2,3,1,1,4 };
+    cout<<jump(a);
     return 0;
 }
