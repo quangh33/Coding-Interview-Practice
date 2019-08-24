@@ -7,54 +7,35 @@
 using namespace std;
 
 
-vector<vector<int>> adj;
-vector<bool> visited;
-vector<bool> inDfs;
+vector<vector<int>> res;
 
-void dfs(int u, bool &canDone) {
-    visited[u] = true;
-    inDfs[u] = true;
-    for (int i = 0; i < adj[u].size(); i++) {
-        int v = adj[u][i];
-        if (!visited[v]) {
-            dfs(v, canDone);
-        } else {
-            if (inDfs[v]) {
-                canDone = false;
-                return;
-            };
-        }
+void build(int i, vector<int> a, vector<bool> visited, vector<int> per) {
+    if (i == a.size()) {
+        res.push_back(per);
+        return;
     }
-    inDfs[u] = false;
+    for(int j = 0; j < a.size(); j++) {
+        if (visited[j]) continue;
+        // when a number has the same value with its previous, we can use this number only if his previous is used
+        if (j > 0 && a[j] == a[j-1] && !visited[j-1]) continue;
+        visited[j] = true;
+        per.push_back(a[j]);
+        build(i+1, a, visited, per);
+        per.pop_back();
+        visited[j] = false;
+    }
 }
 
-bool canFinish(int n, vector<vector<int>> &e) {
-    adj = vector<vector<int>>(n);
-    visited = vector<bool>(n, false);
-    inDfs = vector<bool>(n, false);
-
-    for (int i = 0; i < e.size(); i++) {
-        int u = e[i][0];
-        int v = e[i][1];
-        adj[v].push_back(u);
-    }
-
-    bool canDone = true;
-    for (int i = 0; i < n; i++)
-        if (!visited[i]) {
-            dfs(i, canDone);
-        }
-
-    return canDone;
+vector<vector<int>> permuteUnique(vector<int>& a) {
+    sort(a.begin(), a.end());
+    vector<bool> visited(a.size(), false);
+    vector<int> per = {};
+    build(0, a, visited, per);
+    return res;
 }
 
 int main() {
-
-    vector<vector<int>> e;
-    vector<int> e1 = { 3, 0 };
-    vector<int> e2 = { 0, 1 };
-    e.push_back(e1);
-    e.push_back(e2);
-    cout<<canFinish(4, e);
+    vector<int> a = { 1, 1, 2 };
+    permuteUnique(a);
     return 0;
 }
