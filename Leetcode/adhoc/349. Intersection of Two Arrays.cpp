@@ -1,12 +1,6 @@
 //
-// Created by Hoang, Quang on 2019-08-09.
+// Created by Hoang, Quang on 2019-08-25.
 //
-
-//  https://leetcode.com/problems/intersection-of-two-arrays/
-
-#include <vector>
-
-using namespace std;
 
 class Solution {
 public:
