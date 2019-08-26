@@ -20,6 +20,6 @@ vector<int> sortArrayByParityII(vector<int>& A) {
 
 int main() {
     vector<int> a = { 4, 2, 5, 7 };
-    sortArrayByParityII(a);
+    cout<< (16 & 15);
     return 0;
 }
