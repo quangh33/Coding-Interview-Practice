@@ -8,9 +8,6 @@
 
 using namespace std;
 
-
-
 int main() {
-    vector<int> a = { 4, 2, 5, 7 };
     return 0;
 }
