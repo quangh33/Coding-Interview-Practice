@@ -8,34 +8,28 @@
 
 using namespace std;
 
-int minimumTotal(vector<vector<int>> &a) {
-    int n = a.size();
-    if (n == 0) return 0;
-    int fx[n];
-    fx[0] = a[0][0];
+typedef pair<int, int> ii;
 
-    for (int i = 1; i < n; i++) {
-        for (int j = a[i].size() - 1; j >= 0; j--) {
-            if (j != a[i].size() - 1) fx[j] = fx[j] + a[i][j];
-            if (j > 0) {
-                if (j != a[i].size() - 1) fx[j] = min(fx[j], fx[j-1] + a[i][j]);
-                else fx[j] = fx[j-1] + a[i][j];
-            }
-        }
+void dfs(int u, vector<vector<int>> rooms, vector<bool>& visit) {
+    visit[u] = true;
+    for(int v: rooms[u])
+        if (!visit[v]) dfs(v, rooms, visit);
+}
+
+bool canVisitAllRooms(vector<vector<int>>& rooms) {
+    vector<bool> visit = vector<bool>(rooms.size(), false);
+    int count = 0;
+    for(int i = 0; i < rooms.size(); i++) {
+        if (!visit[i]) dfs(i, rooms, visit);
+        count++;
+        if (count == 2) return false;
     }
-    int res = INT_MAX;
-    for (int j = 0; j < a[n - 1].size(); j++) res = min(res, fx[j]);
-    return res;
+    return true;
 }
 
 int main() {
-    vector<vector<int>> a = {
-            {2},
-            {3, 4},
-            {6, 5, 7},
-            {4, 1, 8, 3}
-    };
-    cout<<minimumTotal(a);
-
+    int a[4];
+    memset(a, -1, sizeof(a));
+    cout<<a[0];
     return 0;
 }
