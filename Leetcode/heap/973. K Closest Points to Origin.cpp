@@ -4,29 +4,31 @@
 
 // https://leetcode.com/problems/k-closest-points-to-origin/
 
-typedef pair<int, pair<int, int>> pii;
+class Solution {
+public:
+    typedef pair<int, pair<int, int>> pii;
 
-int dis(int u, int v) {
-    return u * u + v * v;
-}
-
-vector<vector<int>> kClosest(vector<vector<int>> &points, int K) {
-    priority_queue<pii, vector<pii>, greater<pii>> q;
-    for (int i = 0; i < points.size(); i++) {
-        int u = points[i][0];
-        int v = points[i][1];
-        q.push(make_pair(dis(u, v), make_pair(u, v)));
+    int dis(int u, int v) {
+        return u * u + v * v;
     }
 
-    vector<vector<int>> res;
-    if (points.size() == 0) return res;
+    vector <vector<int>> kClosest(vector <vector<int>> &points, int K) {
+        priority_queue <pii> q;
+        for (int i = 0; i < points.size(); i++) {
+            int u = points[i][0];
+            int v = points[i][1];
+            q.push(make_pair(dis(u, v), make_pair(u, v)));
+            if (q.size() > K) q.pop();
+        }
 
-    for(int i = 0; i < K; i++) {
-        vector<int> p;
-        p.push_back(q.top().second.first);
-        p.push_back(q.top().second.second);
-        q.pop();
-        res.push_back(p);
+        vector <vector<int>> res;
+        while (!q.empty()) {
+            int u = q.top().second.first;
+            int v = q.top().second.second;
+            q.pop();
+            res.push_back({u, v});
+        }
+
+        return res;
     }
-    return res;
-}
+};

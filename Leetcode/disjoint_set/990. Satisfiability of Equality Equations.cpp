@@ -21,16 +21,16 @@ public:
         }
     }
 
-    bool equationsPossible(vector<string>& equations) {
+    bool equationsPossible(vector <string> &equations) {
         int n = equations.size();
 
 
-        for(int i = 0; i < 26; i++) {
+        for (int i = 0; i < 26; i++) {
             p[i] = i;
             r[i] = 0;
         }
 
-        for(string s: equations) {
+        for (string s: equations) {
             if (s[1] == '=') {
                 int u = s[0] - 'a';
                 int v = s[3] - 'a';
@@ -40,7 +40,7 @@ public:
             }
         }
 
-        for(string s: equations) {
+        for (string s: equations) {
             if (s[1] == '!') {
                 int u = s[0] - 'a';
                 int v = s[3] - 'a';
