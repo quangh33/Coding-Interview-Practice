@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp"
+    }
+}
