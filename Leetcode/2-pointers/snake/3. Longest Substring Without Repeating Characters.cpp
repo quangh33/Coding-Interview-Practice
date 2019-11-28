@@ -19,10 +19,8 @@ public:
                 i++;
                 if (i < n) count[s[i]]++;
             } else {
-                while (count[s[i]] > 1) {
-                    count[s[j]]--;
-                    j++;
-                }
+                count[s[j]]--;
+                j++;
             }
         }
         return res;
