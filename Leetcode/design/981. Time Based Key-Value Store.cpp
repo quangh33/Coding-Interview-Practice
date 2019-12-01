@@ -1,7 +1,3 @@
-//
-// Created by Hoang, Quang on 2019-11-21.
-//
-
 class TimeMap {
 public:
     /** Initialize your data structure here. */

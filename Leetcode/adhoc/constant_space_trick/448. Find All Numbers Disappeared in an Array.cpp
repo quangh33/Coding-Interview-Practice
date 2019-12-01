@@ -1,12 +1,3 @@
-//
-// Created by Hoang, Quang on 2019-08-09.
-//
-
-// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& a) {
@@ -22,4 +13,3 @@ public:
         return res;
     }
 };
-
