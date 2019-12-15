@@ -6,7 +6,7 @@
 
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& a, int target) {
+    bool searchMatrix(vector <vector<int>> &a, int target) {
         int n = a.size();
         if (n == 0) return 0;
         int m = a[0].size();

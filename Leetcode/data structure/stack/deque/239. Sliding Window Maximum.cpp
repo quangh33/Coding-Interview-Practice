@@ -11,24 +11,24 @@ public:
         q.push_back(x);
     }
 
-    vector<int> maxSlidingWindow(vector<int>& a, int k) {
+    vector<int> maxSlidingWindow(vector<int> &a, int k) {
         deque<int> q;
         int n = a.size();
         vector<int> res;
         if (n == 0) return res;
 
-        for(int i = 0; i < k - 1; i++) {
+        for (int i = 0; i < k - 1; i++) {
             push(q, a[i]);
         }
 
 
-        for(int i = k - 1; i < n; i++) {
+        for (int i = k - 1; i < n; i++) {
             push(q, a[i]);
             // for(auto it = q.begin(); it != q.end(); it++) cout<<*it<<" ";
-            cout<<endl;
+            cout << endl;
 
             res.push_back(q.front());
-            if (a[i-k+1] == q.front()) q.pop_front();
+            if (a[i - k + 1] == q.front()) q.pop_front();
         }
         return res;
     }
