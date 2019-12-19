@@ -9,5 +9,9 @@
 using namespace std;
 
 int main() {
-    return 0;
+    map<int, int> m;
+    m[10] = 9;
+    m[2] = 1;
+    m[4] = 2;
+    cout<<m.begin()->first;
 }

@@ -17,20 +17,20 @@ public:
 
         int m = target.size();
         if (m == 0) return 0;
-        int fx[m];
-        if (prev[n][target[0] - 'a'] == -1) return -1;
-        fx[0] = 1;
+        int fx[m+1];
+        fx[0] = 0;
         for (int i = 1; i < m; i++) {
             int cur = n;
             fx[i] = INT_MAX;
             for (int j = i; j >= 0; j--)
-                if (j == 0 || fx[j - 1] != INT_MAX) {
-                    if (prev[cur][target[j] - 'a'] != -1) {
-                        fx[i] = min(fx[i], 1 + (j == 0 ? 0 : fx[j - 1]));
-                        cur = prev[cur][target[j] - 'a'];
+                if (fx[j - 1] != INT_MAX) {
+                    int c = target[j-1] - 'a';
+                    if (prev[cur][c] != -1) {
+                        fx[i] = min(fx[i], 1 + fx[j - 1]);
+                        cur = prev[cur][c];
                     } else break;
                 }
         }
-        return fx[m - 1] == INT_MAX ? -1 : fx[m - 1];
+        return fx[m] == INT_MAX ? -1 : fx[m];
     }
 };

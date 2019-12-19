@@ -1,45 +1,44 @@
-//
-// Created by Hoang, Quang on 2019-12-15.
-//
-
 class MaxStack {
+private:
+    stack<int> s;
+    stack<int> ma;
 public:
     /** initialize your data structure here. */
-    list<int> l;
-    map<int, stack<list<int>::iterator>> m;
-
     MaxStack() {
 
     }
 
     void push(int x) {
-        l.push_back(x);
-        if (m.count(x) == 0) m[x] = stack<list<int>::iterator>();
-        m[x].push(l.end());
+        s.push(x);
+        int maxValue = ma.empty() ? x : ma.top();
+        ma.push(max(x, maxValue));
     }
 
     int pop() {
-        int last = l.back();
-        l.pop_back();
-        m[last].pop();
-        if (m[last].empty()) m.erase(last);
-        return last;
+        int x = s.top();
+        s.pop();
+        ma.pop();
+        return x;
     }
 
     int top() {
-        return l.back();
+        return s.top();
     }
 
     int peekMax() {
-        return m.begin()->first;
+        return ma.top();
     }
 
     int popMax() {
-        int ma = peekMax();
-        l.erase(m[ma].top());
-        m[ma].pop();
-        if (m[ma].empty()) m.erase(ma);
-        return ma;
+        int x = ma.top();
+        stack<int> buffer;
+        while (!s.empty() && top() != x) buffer.push(pop());
+        pop();
+        while (!buffer.empty()) {
+            push(buffer.top());
+            buffer.pop();
+        }
+        return x;
     }
 };
 
