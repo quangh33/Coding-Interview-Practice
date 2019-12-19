@@ -6,13 +6,18 @@
  * https://leetcode.com/problems/powx-n/
  */
 
-double myPow(double x, int n) {
-    if (n == 0) return 1;
-    if (n == 1) return x;
-    if (n == -1) return 1 / x;
-    int m = n / 2;
-    double y = myPow(x, m);
-    if (n % 2 == 0) return y * y;
-    if (n > 0) return y * y * x;
-    return y * y * (1 / x);
-}
+class Solution {
+public:
+    double pow(double x, long long n) {
+        if (n < 0) return 1.0 / pow(x, -n);
+        if (n == 0) return 1;
+        if (n == 1) return x;
+        double y = pow(x, n / 2);
+        if (n % 2 == 0) return y * y;
+        return y * y * x;
+    }
+
+    double myPow(double x, int n) {
+        return pow(x, n);
+    }
+};
