@@ -25,7 +25,6 @@ public:
     int top(int K) {
         if (K == 0) return 0;
         int res = 0;
-        int count = 0;
         for (auto pair: players) {
             if (K >= pair.second.size()) {
                 K -= pair.second.size();
