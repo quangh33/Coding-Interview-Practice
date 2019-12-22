@@ -10,24 +10,22 @@
 using namespace std;
 
 class Solution {
+    typedef pair<int, int> II;
 public:
-    vector<int> topKFrequent(vector<int>& a, int k) {
+    vector<int> topKFrequent(vector<int> &a, int k) {
         int n = a.size();
+        priority_queue<II, vector<II>, greater<II>> q;
         unordered_map<int, int> count;
-        for(int i: a) count[i]++;
-        priority_queue<pair<int, int>> q;
 
-        unordered_map<int, int>:: iterator p;
-        for (p = count.begin(); p != count.end(); p++) {
-            q.push(make_pair(p->second, p->first));
+        for (int i: a) count[i]++;
+        for (auto pair: count) {
+            q.push(II(pair.second, pair.first));
+            if (q.size() > k) q.pop();
         }
 
         vector<int> res;
-
         while (!q.empty()) {
             res.push_back(q.top().second);
-            k--;
-            if (k == 0) break;
             q.pop();
         }
         return res;
