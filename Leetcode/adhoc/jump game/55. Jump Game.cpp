@@ -8,11 +8,11 @@ class Solution {
 public:
     bool canJump(vector<int>& a) {
         int n = a.size();
-        int farest = 0;
-        for(int i = 0; i < n; i++) {
-            if (i > farest) break;
-            farest = max(farest, i + a[i]);
+        int furthest = 0;
+        for(int i = 0; i <= furthest; i++) {
+            if (furthest >= n-1) return true;
+            furthest = max(furthest, i + a[i]);
         }
-        return farest >= n-1;
+        return false;
     }
 };

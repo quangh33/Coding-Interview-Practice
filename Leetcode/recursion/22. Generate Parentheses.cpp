@@ -13,7 +13,7 @@ public:
                 res.push_back(s);
             }
             return;
-        }2
+        }
         if (sum < 0) return;
         if (sum > n - i) return;
         string temp = s;

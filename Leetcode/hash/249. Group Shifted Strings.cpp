@@ -5,20 +5,20 @@
 class Solution {
 public:
     long long MOD = 1e9 + 7;
+    long long BASE = 27;
 
     long long hash(vector<int> a) {
         long long value = 0;
         for (int i = 0; i < a.size(); i++)
-            value = (value * 26 + a[i]) % MOD;
+            value = (value * BASE + a[i]) % MOD;
         return value;
     }
 
     long long cal(string s) {
         vector<int> a;
         for (int i = 1; i < s.size(); i++) {
-            a.push_back((int(s[i]) - int(s[i - 1]) + 26) % 26);
+            a.push_back((int(s[i]) - int(s[i - 1]) + 26) % 26 + 1);
         }
-        a.push_back(s.size());
         return hash(a);
     }
 
