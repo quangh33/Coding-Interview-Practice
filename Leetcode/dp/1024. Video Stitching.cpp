@@ -18,6 +18,7 @@ public:
         fx[0] = a[0].first <= 0 ? 1 : INT_MAX;
         if (a[0].first <= 0 && a[0].second >= T) return 1;
         int res = INT_MAX;
+
         for(int i = 1; i < n; i++) {
             fx[i] = a[i].first <= 0 ? 1 : INT_MAX;
             for(int j = 0; j < i; j++) {
